@@ -59,7 +59,7 @@ Create .env file:
 ```
 IPINFO_TOKEN=your_api_token_here
 ```
-5️⃣ Run demo (Optional)
+5️⃣ Run demo 
 ```
 chmod +x run_demo.sh
 ./run_demo.sh
