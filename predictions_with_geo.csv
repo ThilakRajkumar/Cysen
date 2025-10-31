@@ -1,0 +1,2 @@
+session_duration,command_count,failed_logins,common_commands,src_ip,pred_label_enc,pred_label,pred_proba_max,geo_raw,geo_country,geo_city
+164,2.0,2.0,other,171.79.140.127,2,2,0.75,"{'ip': '171.79.140.127', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS45609 Bharti Airtel Ltd. AS for GPRS Service', 'postal': '110001', 'timezone': 'Asia/Kolkata'}",IN,Delhi

@@ -1,0 +1,3637 @@
+session_duration,command_count,failed_logins,common_commands_enc,label
+104,2.0,6.0,5,Brute Force
+265,29.0,0.0,4,Command Injection
+160,9.0,0.0,8,Command Injection
+115,3.0,7.0,5,Brute Force
+289,26.0,0.0,8,Command Injection
+281,29.0,1.0,4,Command Injection
+38,28.0,0.0,3,Command Injection
+110,1.0,9.0,5,Brute Force
+108,2.0,3.0,5,Brute Force
+236,19.0,1.0,5,Command Injection
+19,2.0,4.0,5,Brute Force
+313,16.0,1.0,3,Command Injection
+262,7.0,0.0,5,Command Injection
+262,24.0,0.0,5,Command Injection
+142,6.0,1.0,3,Command Injection
+160,6.0,2.0,5,Other
+20,0.0,9.0,5,Brute Force
+176,24.0,1.0,8,Command Injection
+180,14.0,0.0,8,Command Injection
+197,4.0,2.0,5,Other
+117,3.0,6.0,5,Brute Force
+339,7.0,1.0,5,Command Injection
+37,3.0,3.0,5,Brute Force
+34,0.0,1.0,5,Brute Force
+46,4.0,1.0,5,Other
+190,7.0,1.0,5,Command Injection
+90,1.0,2.0,5,Brute Force
+55,7.0,1.0,2,Command Injection
+171,16.0,0.0,8,Command Injection
+343,26.0,0.0,3,Command Injection
+72,4.0,4.0,5,Brute Force
+23,0.0,8.0,5,Brute Force
+5,1.0,1.0,5,Brute Force
+67,4.0,6.0,5,Brute Force
+73,3.0,5.0,5,Brute Force
+279,23.0,1.0,4,Command Injection
+189,24.0,1.0,3,Command Injection
+74,1.0,0.0,5,Other
+143,17.0,0.0,5,Command Injection
+128,20.0,1.0,5,Command Injection
+103,0.0,1.0,5,Brute Force
+147,8.0,2.0,5,Other
+82,27.0,1.0,2,Command Injection
+175,19.0,1.0,2,Command Injection
+312,6.0,0.0,5,Command Injection
+321,10.0,1.0,8,Command Injection
+271,24.0,1.0,4,Command Injection
+146,10.0,1.0,3,Command Injection
+146,8.0,0.0,5,Other
+41,14.0,1.0,4,Command Injection
+57,9.0,0.0,3,Command Injection
+64,10.0,1.0,4,Command Injection
+268,21.0,0.0,5,Command Injection
+340,10.0,1.0,2,Command Injection
+21,4.0,9.0,5,Brute Force
+101,11.0,1.0,5,Command Injection
+280,29.0,0.0,4,Command Injection
+281,6.0,1.0,5,Command Injection
+30,6.0,1.0,5,Other
+98,6.0,1.0,5,Command Injection
+124,15.0,1.0,4,Command Injection
+55,2.0,5.0,5,Brute Force
+53,1.0,9.0,5,Brute Force
+384,24.0,0.0,8,Command Injection
+341,23.0,0.0,4,Command Injection
+221,29.0,0.0,5,Command Injection
+96,13.0,0.0,5,Command Injection
+130,10.0,1.0,5,Command Injection
+141,8.0,1.0,4,Command Injection
+6,1.0,2.0,5,Other
+79,1.0,3.0,5,Brute Force
+119,18.0,1.0,5,Command Injection
+290,27.0,1.0,3,Command Injection
+67,27.0,0.0,5,Command Injection
+162,2.0,2.0,5,Other
+41,4.0,3.0,5,Brute Force
+43,23.0,0.0,5,Command Injection
+133,23.0,0.0,4,Command Injection
+260,8.0,0.0,5,Command Injection
+101,4.0,4.0,5,Brute Force
+144,23.0,1.0,3,Command Injection
+331,15.0,1.0,5,Command Injection
+133,7.0,0.0,5,Other
+326,26.0,0.0,8,Command Injection
+84,23.0,1.0,8,Command Injection
+54,15.0,1.0,5,Command Injection
+373,5.0,0.0,5,Command Injection
+92,12.0,0.0,8,Command Injection
+97,2.0,2.0,5,Brute Force
+84,11.0,0.0,4,Command Injection
+97,0.0,9.0,5,Brute Force
+96,1.0,3.0,5,Brute Force
+89,1.0,7.0,5,Brute Force
+51,4.0,4.0,5,Brute Force
+255,25.0,1.0,4,Command Injection
+85,1.0,3.0,5,Brute Force
+186,1.0,2.0,5,Other
+182,10.0,1.0,3,Command Injection
+202,21.0,1.0,5,Command Injection
+30,4.0,5.0,5,Brute Force
+26,4.0,8.0,5,Brute Force
+230,6.0,0.0,2,Command Injection
+137,16.0,0.0,5,Command Injection
+117,3.0,8.0,5,Brute Force
+89,9.0,0.0,5,Other
+146,11.0,0.0,4,Command Injection
+132,21.0,1.0,8,Command Injection
+68,19.0,1.0,2,Command Injection
+256,14.0,1.0,5,Command Injection
+347,25.0,1.0,2,Command Injection
+98,0.0,3.0,5,Brute Force
+73,0.0,0.0,5,Other
+348,18.0,1.0,4,Command Injection
+113,1.0,2.0,5,Brute Force
+103,3.0,1.0,5,Brute Force
+298,28.0,0.0,8,Command Injection
+224,29.0,1.0,3,Command Injection
+280,9.0,1.0,5,Command Injection
+144,7.0,1.0,4,Command Injection
+88,20.0,0.0,5,Command Injection
+62,0.0,3.0,5,Brute Force
+106,16.0,0.0,5,Command Injection
+116,2.0,7.0,5,Brute Force
+118,3.0,1.0,5,Brute Force
+175,3.0,2.0,5,Other
+62,1.0,2.0,5,Brute Force
+79,3.0,2.0,5,Brute Force
+50,19.0,1.0,5,Command Injection
+192,21.0,0.0,4,Command Injection
+50,1.0,4.0,5,Brute Force
+251,18.0,0.0,2,Command Injection
+93,17.0,0.0,4,Command Injection
+106,0.0,8.0,5,Brute Force
+121,24.0,0.0,5,Command Injection
+223,10.0,0.0,5,Command Injection
+10,0.0,6.0,5,Brute Force
+11,2.0,4.0,5,Brute Force
+79,1.0,6.0,5,Brute Force
+148,25.0,0.0,4,Command Injection
+272,7.0,0.0,5,Command Injection
+41,3.0,4.0,5,Brute Force
+95,19.0,1.0,3,Command Injection
+103,1.0,8.0,5,Brute Force
+70,26.0,1.0,5,Command Injection
+192,9.0,0.0,8,Command Injection
+295,16.0,1.0,2,Command Injection
+51,4.0,5.0,5,Brute Force
+363,6.0,0.0,8,Command Injection
+41,14.0,1.0,5,Command Injection
+207,27.0,1.0,5,Command Injection
+293,10.0,0.0,8,Command Injection
+174,12.0,0.0,4,Command Injection
+57,4.0,9.0,5,Brute Force
+81,0.0,4.0,5,Brute Force
+394,15.0,0.0,4,Command Injection
+334,21.0,0.0,3,Command Injection
+114,12.0,1.0,5,Command Injection
+257,19.0,0.0,4,Command Injection
+332,25.0,1.0,8,Command Injection
+56,2.0,3.0,5,Brute Force
+292,16.0,1.0,8,Command Injection
+339,5.0,1.0,4,Command Injection
+55,13.0,0.0,5,Command Injection
+54,2.0,4.0,5,Brute Force
+204,21.0,0.0,3,Command Injection
+77,4.0,9.0,5,Brute Force
+309,18.0,0.0,3,Command Injection
+7,0.0,8.0,5,Brute Force
+178,12.0,1.0,4,Command Injection
+383,27.0,1.0,3,Command Injection
+187,29.0,0.0,4,Command Injection
+144,12.0,1.0,5,Command Injection
+37,4.0,6.0,5,Brute Force
+360,7.0,1.0,5,Command Injection
+110,3.0,1.0,5,Brute Force
+36,24.0,1.0,2,Command Injection
+29,4.0,6.0,5,Brute Force
+134,8.0,0.0,5,Other
+36,4.0,2.0,5,Brute Force
+85,19.0,0.0,8,Command Injection
+8,0.0,5.0,5,Brute Force
+66,4.0,3.0,5,Brute Force
+275,10.0,0.0,5,Command Injection
+49,3.0,1.0,5,Brute Force
+81,20.0,1.0,5,Command Injection
+109,0.0,8.0,5,Brute Force
+261,25.0,1.0,4,Command Injection
+202,23.0,0.0,4,Command Injection
+181,21.0,0.0,3,Command Injection
+290,9.0,1.0,5,Command Injection
+358,6.0,0.0,5,Command Injection
+284,22.0,1.0,5,Command Injection
+317,6.0,0.0,5,Command Injection
+242,16.0,1.0,4,Command Injection
+109,1.0,5.0,5,Brute Force
+79,2.0,9.0,5,Brute Force
+151,7.0,0.0,5,Other
+310,9.0,0.0,4,Command Injection
+253,14.0,1.0,4,Command Injection
+115,14.0,1.0,5,Command Injection
+99,28.0,0.0,5,Command Injection
+58,4.0,6.0,5,Brute Force
+365,27.0,1.0,3,Command Injection
+348,18.0,0.0,5,Command Injection
+202,8.0,1.0,8,Command Injection
+289,24.0,1.0,8,Command Injection
+90,14.0,1.0,4,Command Injection
+170,2.0,1.0,5,Other
+99,8.0,1.0,8,Command Injection
+86,24.0,1.0,2,Command Injection
+14,1.0,9.0,5,Brute Force
+207,5.0,0.0,8,Command Injection
+18,0.0,5.0,5,Brute Force
+140,8.0,0.0,5,Other
+181,6.0,1.0,5,Command Injection
+34,6.0,1.0,4,Command Injection
+88,14.0,0.0,4,Command Injection
+261,25.0,0.0,5,Command Injection
+277,7.0,1.0,3,Command Injection
+226,23.0,0.0,4,Command Injection
+267,12.0,1.0,5,Command Injection
+249,5.0,0.0,4,Command Injection
+16,2.0,7.0,5,Brute Force
+99,2.0,7.0,5,Brute Force
+65,3.0,9.0,5,Brute Force
+242,28.0,1.0,5,Command Injection
+63,13.0,0.0,8,Command Injection
+98,2.0,3.0,5,Brute Force
+230,24.0,1.0,2,Command Injection
+256,29.0,0.0,5,Command Injection
+119,0.0,6.0,5,Brute Force
+59,18.0,0.0,3,Command Injection
+114,2.0,3.0,5,Brute Force
+150,23.0,0.0,3,Command Injection
+171,15.0,0.0,4,Command Injection
+114,0.0,8.0,5,Brute Force
+25,4.0,4.0,5,Brute Force
+94,12.0,0.0,8,Command Injection
+50,23.0,1.0,3,Command Injection
+70,1.0,7.0,5,Brute Force
+31,2.0,1.0,5,Brute Force
+331,21.0,1.0,4,Command Injection
+70,21.0,1.0,5,Command Injection
+75,17.0,0.0,4,Command Injection
+119,11.0,1.0,5,Command Injection
+70,3.0,1.0,5,Brute Force
+70,11.0,1.0,8,Command Injection
+32,2.0,4.0,5,Brute Force
+264,5.0,0.0,5,Command Injection
+58,2.0,2.0,5,Brute Force
+224,16.0,0.0,2,Command Injection
+319,28.0,1.0,5,Command Injection
+96,2.0,1.0,5,Brute Force
+142,17.0,1.0,5,Command Injection
+335,10.0,0.0,5,Command Injection
+77,0.0,4.0,5,Brute Force
+91,2.0,3.0,5,Brute Force
+103,3.0,2.0,5,Other
+103,3.0,2.0,5,Brute Force
+105,3.0,6.0,5,Brute Force
+213,24.0,0.0,5,Command Injection
+212,8.0,1.0,4,Command Injection
+82,2.0,2.0,5,Brute Force
+366,21.0,0.0,2,Command Injection
+171,2.0,1.0,5,Other
+39,2.0,2.0,5,Brute Force
+261,12.0,0.0,3,Command Injection
+82,3.0,6.0,5,Brute Force
+387,20.0,1.0,4,Command Injection
+60,3.0,2.0,5,Brute Force
+21,0.0,5.0,5,Brute Force
+83,24.0,1.0,4,Command Injection
+289,17.0,0.0,8,Command Injection
+83,0.0,1.0,5,Brute Force
+354,16.0,0.0,4,Command Injection
+367,19.0,0.0,5,Command Injection
+120,6.0,1.0,5,Other
+310,13.0,0.0,3,Command Injection
+103,1.0,3.0,5,Brute Force
+13,0.0,6.0,5,Brute Force
+245,12.0,0.0,3,Command Injection
+264,7.0,0.0,2,Command Injection
+2,5.0,0.0,5,Other
+257,10.0,0.0,3,Command Injection
+262,6.0,0.0,5,Command Injection
+72,25.0,1.0,5,Command Injection
+243,8.0,1.0,4,Command Injection
+137,6.0,0.0,5,Other
+391,29.0,1.0,2,Command Injection
+69,0.0,4.0,5,Brute Force
+84,3.0,0.0,5,Other
+73,1.0,3.0,5,Brute Force
+380,16.0,1.0,2,Command Injection
+387,26.0,1.0,5,Command Injection
+365,6.0,1.0,8,Command Injection
+371,26.0,1.0,2,Command Injection
+84,12.0,1.0,4,Command Injection
+276,6.0,0.0,2,Command Injection
+235,21.0,1.0,5,Command Injection
+116,6.0,1.0,5,Other
+197,7.0,2.0,5,Other
+9,4.0,4.0,5,Brute Force
+32,0.0,4.0,5,Brute Force
+97,1.0,4.0,5,Brute Force
+61,4.0,9.0,5,Brute Force
+90,3.0,6.0,5,Brute Force
+105,0.0,3.0,5,Brute Force
+301,27.0,0.0,5,Command Injection
+25,4.0,6.0,5,Brute Force
+227,5.0,0.0,8,Command Injection
+369,24.0,0.0,4,Command Injection
+129,8.0,1.0,2,Command Injection
+344,23.0,1.0,2,Command Injection
+190,2.0,2.0,5,Other
+51,23.0,0.0,5,Command Injection
+357,5.0,0.0,3,Command Injection
+88,5.0,1.0,5,Command Injection
+11,2.0,6.0,5,Brute Force
+46,6.0,1.0,5,Command Injection
+295,6.0,0.0,4,Command Injection
+70,26.0,1.0,3,Command Injection
+102,5.0,1.0,4,Command Injection
+338,19.0,0.0,5,Command Injection
+49,3.0,7.0,5,Brute Force
+10,0.0,2.0,5,Brute Force
+102,23.0,1.0,3,Command Injection
+180,19.0,1.0,3,Command Injection
+190,15.0,1.0,5,Command Injection
+203,7.0,1.0,5,Command Injection
+398,5.0,1.0,5,Command Injection
+136,9.0,0.0,3,Command Injection
+339,28.0,1.0,3,Command Injection
+162,21.0,1.0,3,Command Injection
+225,16.0,1.0,4,Command Injection
+114,1.0,1.0,5,Brute Force
+179,13.0,1.0,5,Command Injection
+17,3.0,7.0,5,Brute Force
+238,15.0,1.0,5,Command Injection
+275,23.0,1.0,8,Command Injection
+51,1.0,1.0,5,Brute Force
+68,4.0,7.0,5,Brute Force
+270,21.0,0.0,2,Command Injection
+60,0.0,9.0,5,Brute Force
+45,4.0,3.0,5,Brute Force
+214,12.0,1.0,8,Command Injection
+67,2.0,2.0,5,Other
+99,2.0,2.0,5,Brute Force
+230,9.0,1.0,5,Command Injection
+121,13.0,0.0,3,Command Injection
+110,4.0,5.0,5,Brute Force
+69,17.0,0.0,5,Command Injection
+16,2.0,7.0,5,Brute Force
+202,25.0,1.0,5,Command Injection
+74,3.0,5.0,5,Brute Force
+34,28.0,1.0,5,Command Injection
+106,10.0,1.0,5,Command Injection
+65,1.0,3.0,5,Brute Force
+79,3.0,5.0,5,Brute Force
+384,7.0,1.0,5,Command Injection
+47,0.0,4.0,5,Brute Force
+9,2.0,5.0,5,Brute Force
+189,1.0,2.0,5,Other
+182,9.0,1.0,5,Other
+238,18.0,1.0,5,Command Injection
+213,17.0,0.0,5,Command Injection
+37,12.0,1.0,5,Command Injection
+268,28.0,1.0,4,Command Injection
+61,4.0,4.0,5,Brute Force
+40,6.0,1.0,8,Command Injection
+322,29.0,1.0,4,Command Injection
+68,21.0,1.0,5,Command Injection
+307,6.0,0.0,8,Command Injection
+384,16.0,1.0,3,Command Injection
+307,17.0,0.0,4,Command Injection
+42,21.0,1.0,2,Command Injection
+64,0.0,3.0,5,Brute Force
+117,4.0,6.0,5,Brute Force
+106,3.0,5.0,5,Brute Force
+72,8.0,1.0,5,Other
+354,24.0,0.0,8,Command Injection
+118,0.0,4.0,5,Brute Force
+109,6.0,1.0,5,Other
+31,26.0,1.0,8,Command Injection
+116,0.0,8.0,5,Brute Force
+337,13.0,1.0,8,Command Injection
+76,2.0,1.0,5,Brute Force
+89,1.0,6.0,5,Brute Force
+133,23.0,0.0,3,Command Injection
+72,1.0,1.0,5,Brute Force
+103,2.0,1.0,5,Brute Force
+166,19.0,1.0,4,Command Injection
+102,24.0,1.0,4,Command Injection
+48,1.0,2.0,5,Brute Force
+275,29.0,1.0,5,Command Injection
+279,18.0,1.0,8,Command Injection
+256,26.0,1.0,8,Command Injection
+266,10.0,0.0,5,Command Injection
+361,11.0,1.0,5,Command Injection
+191,27.0,0.0,3,Command Injection
+85,2.0,8.0,5,Brute Force
+114,4.0,6.0,5,Brute Force
+55,19.0,0.0,5,Command Injection
+17,3.0,7.0,5,Brute Force
+192,20.0,1.0,4,Command Injection
+397,19.0,0.0,5,Command Injection
+300,15.0,0.0,2,Command Injection
+315,14.0,1.0,5,Command Injection
+151,18.0,1.0,3,Command Injection
+352,14.0,0.0,4,Command Injection
+150,6.0,2.0,5,Other
+358,27.0,1.0,4,Command Injection
+103,18.0,1.0,2,Command Injection
+40,25.0,0.0,5,Command Injection
+301,21.0,0.0,5,Command Injection
+362,8.0,0.0,5,Command Injection
+41,17.0,1.0,4,Command Injection
+105,1.0,7.0,5,Brute Force
+304,17.0,1.0,5,Command Injection
+73,3.0,3.0,5,Brute Force
+67,10.0,1.0,8,Command Injection
+79,4.0,6.0,5,Brute Force
+188,7.0,0.0,5,Command Injection
+173,20.0,1.0,8,Command Injection
+238,5.0,0.0,3,Command Injection
+360,17.0,0.0,3,Command Injection
+313,29.0,1.0,5,Command Injection
+113,0.0,4.0,5,Brute Force
+230,14.0,1.0,2,Command Injection
+188,29.0,1.0,5,Command Injection
+92,1.0,6.0,5,Brute Force
+96,0.0,0.0,5,Other
+82,3.0,1.0,5,Brute Force
+290,17.0,0.0,3,Command Injection
+219,27.0,1.0,4,Command Injection
+95,0.0,8.0,5,Brute Force
+45,7.0,1.0,5,Command Injection
+37,2.0,3.0,5,Brute Force
+304,10.0,0.0,5,Command Injection
+229,14.0,1.0,4,Command Injection
+296,14.0,0.0,4,Command Injection
+81,26.0,0.0,4,Command Injection
+46,4.0,0.0,5,Other
+15,3.0,6.0,5,Brute Force
+382,8.0,1.0,5,Command Injection
+246,23.0,1.0,5,Command Injection
+86,0.0,9.0,5,Brute Force
+217,6.0,1.0,2,Command Injection
+321,22.0,1.0,4,Command Injection
+46,11.0,1.0,5,Command Injection
+119,25.0,0.0,8,Command Injection
+23,4.0,2.0,5,Brute Force
+149,6.0,0.0,5,Other
+166,4.0,1.0,5,Other
+10,1.0,9.0,5,Brute Force
+179,9.0,0.0,5,Command Injection
+295,19.0,0.0,5,Command Injection
+114,7.0,0.0,4,Command Injection
+102,0.0,6.0,5,Brute Force
+89,0.0,1.0,5,Other
+219,17.0,0.0,5,Command Injection
+249,5.0,1.0,5,Command Injection
+226,29.0,1.0,5,Command Injection
+143,19.0,0.0,8,Command Injection
+80,15.0,0.0,5,Command Injection
+53,4.0,3.0,5,Brute Force
+202,18.0,1.0,3,Command Injection
+144,27.0,0.0,4,Command Injection
+330,16.0,1.0,4,Command Injection
+50,12.0,1.0,5,Command Injection
+163,15.0,0.0,5,Command Injection
+270,24.0,0.0,4,Command Injection
+102,4.0,3.0,5,Brute Force
+365,16.0,1.0,8,Command Injection
+14,0.0,4.0,5,Brute Force
+238,20.0,0.0,4,Command Injection
+138,14.0,0.0,8,Command Injection
+42,3.0,0.0,5,Other
+103,7.0,2.0,5,Other
+212,21.0,0.0,5,Command Injection
+354,23.0,1.0,4,Command Injection
+53,2.0,6.0,5,Brute Force
+112,14.0,0.0,8,Command Injection
+163,29.0,0.0,2,Command Injection
+119,20.0,0.0,5,Command Injection
+13,4.0,1.0,5,Brute Force
+5,2.0,6.0,5,Brute Force
+238,7.0,1.0,5,Command Injection
+35,0.0,8.0,5,Brute Force
+12,2.0,9.0,5,Brute Force
+378,6.0,1.0,5,Command Injection
+118,28.0,1.0,5,Command Injection
+365,27.0,1.0,3,Command Injection
+336,13.0,0.0,4,Command Injection
+33,2.0,1.0,5,Brute Force
+32,1.0,9.0,5,Brute Force
+42,28.0,1.0,5,Command Injection
+34,1.0,2.0,5,Brute Force
+72,0.0,4.0,5,Brute Force
+357,5.0,1.0,2,Command Injection
+241,23.0,0.0,5,Command Injection
+139,28.0,1.0,4,Command Injection
+350,23.0,0.0,4,Command Injection
+216,27.0,0.0,3,Command Injection
+154,21.0,0.0,3,Command Injection
+308,27.0,1.0,5,Command Injection
+214,9.0,0.0,5,Command Injection
+101,0.0,9.0,5,Brute Force
+299,24.0,1.0,5,Command Injection
+103,23.0,0.0,8,Command Injection
+6,3.0,2.0,5,Brute Force
+47,4.0,6.0,5,Brute Force
+166,8.0,0.0,2,Command Injection
+303,14.0,1.0,3,Command Injection
+76,15.0,1.0,2,Command Injection
+50,3.0,1.0,5,Brute Force
+392,21.0,0.0,5,Command Injection
+65,0.0,1.0,5,Brute Force
+262,18.0,0.0,5,Command Injection
+31,18.0,1.0,5,Command Injection
+95,14.0,0.0,8,Command Injection
+104,2.0,2.0,5,Brute Force
+100,20.0,0.0,5,Command Injection
+52,25.0,0.0,2,Command Injection
+125,2.0,2.0,5,Other
+21,2.0,3.0,5,Brute Force
+48,6.0,1.0,2,Command Injection
+279,15.0,1.0,5,Command Injection
+335,11.0,1.0,4,Command Injection
+174,23.0,1.0,5,Command Injection
+318,22.0,1.0,3,Command Injection
+25,6.0,1.0,5,Other
+258,6.0,1.0,4,Command Injection
+186,9.0,0.0,5,Other
+58,0.0,8.0,5,Brute Force
+119,12.0,0.0,5,Command Injection
+6,4.0,7.0,5,Brute Force
+9,2.0,4.0,5,Brute Force
+172,20.0,1.0,5,Command Injection
+180,20.0,1.0,5,Command Injection
+41,9.0,1.0,3,Command Injection
+79,1.0,6.0,5,Brute Force
+290,23.0,1.0,4,Command Injection
+127,8.0,0.0,4,Command Injection
+284,17.0,1.0,8,Command Injection
+376,28.0,0.0,5,Command Injection
+228,27.0,1.0,2,Command Injection
+245,21.0,1.0,5,Command Injection
+271,27.0,1.0,2,Command Injection
+185,20.0,0.0,5,Command Injection
+385,24.0,1.0,4,Command Injection
+326,17.0,0.0,5,Command Injection
+398,11.0,1.0,5,Command Injection
+176,8.0,1.0,2,Command Injection
+291,29.0,0.0,8,Command Injection
+185,9.0,1.0,5,Command Injection
+103,0.0,8.0,5,Brute Force
+116,13.0,0.0,5,Command Injection
+92,8.0,0.0,2,Command Injection
+197,3.0,0.0,5,Other
+79,2.0,7.0,5,Brute Force
+177,5.0,0.0,2,Command Injection
+36,2.0,2.0,5,Brute Force
+230,18.0,1.0,8,Command Injection
+264,18.0,1.0,8,Command Injection
+135,9.0,1.0,5,Command Injection
+281,27.0,0.0,8,Command Injection
+32,26.0,1.0,5,Command Injection
+56,2.0,5.0,5,Brute Force
+105,2.0,8.0,5,Brute Force
+366,13.0,1.0,2,Command Injection
+64,1.0,8.0,5,Brute Force
+86,12.0,1.0,4,Command Injection
+38,2.0,8.0,5,Brute Force
+228,11.0,0.0,5,Command Injection
+101,9.0,0.0,3,Command Injection
+349,14.0,0.0,5,Command Injection
+98,4.0,9.0,5,Brute Force
+98,1.0,7.0,5,Brute Force
+99,2.0,9.0,5,Brute Force
+106,1.0,1.0,5,Brute Force
+188,11.0,0.0,2,Command Injection
+13,1.0,2.0,5,Brute Force
+206,7.0,1.0,5,Command Injection
+152,20.0,0.0,4,Command Injection
+184,10.0,1.0,5,Command Injection
+229,23.0,1.0,8,Command Injection
+183,14.0,0.0,5,Command Injection
+195,18.0,0.0,2,Command Injection
+97,4.0,7.0,5,Brute Force
+182,26.0,0.0,4,Command Injection
+322,24.0,0.0,4,Command Injection
+330,17.0,0.0,4,Command Injection
+119,3.0,5.0,5,Brute Force
+288,16.0,0.0,2,Command Injection
+193,17.0,0.0,3,Command Injection
+354,23.0,1.0,4,Command Injection
+198,22.0,1.0,5,Command Injection
+102,18.0,0.0,5,Command Injection
+31,23.0,0.0,4,Command Injection
+110,1.0,1.0,5,Brute Force
+125,1.0,1.0,5,Other
+260,20.0,0.0,5,Command Injection
+81,3.0,7.0,5,Brute Force
+263,5.0,1.0,4,Command Injection
+97,29.0,0.0,5,Command Injection
+159,22.0,0.0,5,Command Injection
+34,2.0,3.0,5,Brute Force
+15,1.0,2.0,5,Brute Force
+293,6.0,0.0,8,Command Injection
+244,12.0,1.0,5,Command Injection
+115,1.0,8.0,5,Brute Force
+271,25.0,1.0,5,Command Injection
+245,22.0,0.0,2,Command Injection
+128,18.0,1.0,4,Command Injection
+298,6.0,0.0,5,Command Injection
+352,22.0,0.0,2,Command Injection
+58,22.0,1.0,5,Command Injection
+172,14.0,0.0,4,Command Injection
+119,1.0,3.0,5,Brute Force
+69,4.0,6.0,5,Brute Force
+80,1.0,8.0,5,Brute Force
+190,11.0,1.0,5,Command Injection
+130,25.0,1.0,5,Command Injection
+74,0.0,9.0,5,Brute Force
+98,4.0,2.0,5,Brute Force
+37,1.0,4.0,5,Brute Force
+116,3.0,9.0,5,Brute Force
+90,0.0,8.0,5,Brute Force
+27,4.0,1.0,5,Brute Force
+210,11.0,1.0,5,Command Injection
+182,0.0,2.0,5,Other
+15,2.0,1.0,5,Brute Force
+302,13.0,1.0,4,Command Injection
+286,9.0,1.0,5,Command Injection
+344,14.0,1.0,2,Command Injection
+66,13.0,1.0,4,Command Injection
+31,0.0,2.0,5,Other
+393,6.0,1.0,8,Command Injection
+223,12.0,0.0,4,Command Injection
+71,4.0,7.0,5,Brute Force
+335,27.0,0.0,5,Command Injection
+270,21.0,0.0,8,Command Injection
+164,18.0,1.0,5,Command Injection
+51,2.0,6.0,5,Brute Force
+15,1.0,3.0,5,Brute Force
+129,9.0,0.0,2,Command Injection
+219,11.0,1.0,8,Command Injection
+393,19.0,1.0,5,Command Injection
+87,13.0,1.0,4,Command Injection
+56,12.0,1.0,8,Command Injection
+87,2.0,5.0,5,Brute Force
+98,1.0,9.0,5,Brute Force
+10,3.0,8.0,5,Brute Force
+12,0.0,2.0,5,Brute Force
+181,6.0,1.0,5,Command Injection
+381,19.0,1.0,8,Command Injection
+215,25.0,0.0,5,Command Injection
+41,14.0,0.0,2,Command Injection
+282,16.0,1.0,4,Command Injection
+360,28.0,0.0,5,Command Injection
+262,6.0,0.0,5,Command Injection
+313,19.0,0.0,4,Command Injection
+91,8.0,0.0,5,Other
+328,29.0,0.0,4,Command Injection
+81,5.0,1.0,2,Command Injection
+49,20.0,0.0,4,Command Injection
+108,13.0,0.0,5,Command Injection
+39,1.0,6.0,5,Brute Force
+14,0.0,5.0,5,Brute Force
+305,23.0,1.0,8,Command Injection
+113,5.0,1.0,5,Other
+393,21.0,0.0,5,Command Injection
+355,13.0,1.0,8,Command Injection
+349,23.0,0.0,5,Command Injection
+14,0.0,1.0,5,Brute Force
+71,0.0,2.0,5,Other
+88,0.0,1.0,5,Other
+75,1.0,2.0,5,Other
+75,4.0,5.0,5,Brute Force
+392,11.0,1.0,4,Command Injection
+127,0.0,2.0,5,Other
+82,2.0,1.0,5,Brute Force
+193,10.0,1.0,5,Command Injection
+173,18.0,1.0,4,Command Injection
+78,1.0,6.0,5,Brute Force
+119,0.0,3.0,5,Brute Force
+369,15.0,0.0,2,Command Injection
+278,17.0,0.0,5,Command Injection
+275,7.0,1.0,2,Command Injection
+35,0.0,2.0,5,Brute Force
+74,2.0,8.0,5,Brute Force
+111,24.0,0.0,4,Command Injection
+242,24.0,0.0,8,Command Injection
+53,27.0,0.0,4,Command Injection
+39,2.0,5.0,5,Brute Force
+71,14.0,1.0,5,Command Injection
+120,13.0,1.0,5,Command Injection
+134,26.0,1.0,3,Command Injection
+107,2.0,6.0,5,Brute Force
+392,29.0,1.0,4,Command Injection
+77,3.0,3.0,5,Brute Force
+185,4.0,0.0,5,Other
+220,13.0,1.0,5,Command Injection
+364,12.0,1.0,3,Command Injection
+367,14.0,1.0,8,Command Injection
+37,1.0,7.0,5,Brute Force
+136,21.0,0.0,5,Command Injection
+81,2.0,2.0,5,Brute Force
+83,29.0,0.0,2,Command Injection
+61,14.0,1.0,3,Command Injection
+114,2.0,2.0,5,Other
+34,0.0,3.0,5,Brute Force
+74,4.0,9.0,5,Brute Force
+76,17.0,0.0,5,Command Injection
+259,26.0,1.0,5,Command Injection
+360,13.0,0.0,5,Command Injection
+282,23.0,1.0,3,Command Injection
+165,3.0,2.0,5,Other
+95,4.0,4.0,5,Brute Force
+110,4.0,7.0,5,Brute Force
+87,13.0,0.0,5,Command Injection
+32,16.0,1.0,4,Command Injection
+315,16.0,0.0,5,Command Injection
+106,0.0,6.0,5,Brute Force
+49,5.0,1.0,2,Command Injection
+65,0.0,6.0,5,Brute Force
+140,5.0,0.0,2,Command Injection
+41,2.0,9.0,5,Brute Force
+336,24.0,0.0,5,Command Injection
+329,18.0,1.0,2,Command Injection
+169,22.0,1.0,3,Command Injection
+335,29.0,0.0,3,Command Injection
+38,26.0,1.0,5,Command Injection
+18,4.0,8.0,5,Brute Force
+391,5.0,1.0,4,Command Injection
+181,17.0,1.0,4,Command Injection
+258,22.0,0.0,5,Command Injection
+164,13.0,1.0,5,Command Injection
+130,28.0,1.0,3,Command Injection
+247,5.0,1.0,5,Command Injection
+317,26.0,1.0,4,Command Injection
+349,24.0,1.0,4,Command Injection
+32,4.0,6.0,5,Brute Force
+42,1.0,2.0,5,Brute Force
+282,17.0,0.0,3,Command Injection
+302,8.0,1.0,5,Command Injection
+103,2.0,9.0,5,Brute Force
+114,2.0,2.0,5,Other
+56,1.0,7.0,5,Brute Force
+302,24.0,0.0,4,Command Injection
+8,0.0,8.0,5,Brute Force
+246,19.0,1.0,4,Command Injection
+30,0.0,8.0,5,Brute Force
+193,28.0,0.0,5,Command Injection
+316,26.0,0.0,8,Command Injection
+366,25.0,1.0,5,Command Injection
+77,12.0,0.0,8,Command Injection
+263,7.0,0.0,4,Command Injection
+302,21.0,1.0,3,Command Injection
+365,15.0,0.0,3,Command Injection
+145,8.0,0.0,5,Other
+189,13.0,0.0,5,Command Injection
+321,26.0,1.0,8,Command Injection
+161,20.0,1.0,5,Command Injection
+69,3.0,4.0,5,Brute Force
+199,17.0,0.0,2,Command Injection
+367,27.0,1.0,5,Command Injection
+76,18.0,1.0,5,Command Injection
+27,4.0,4.0,5,Brute Force
+286,25.0,0.0,5,Command Injection
+145,23.0,0.0,3,Command Injection
+215,16.0,0.0,4,Command Injection
+26,2.0,7.0,5,Brute Force
+58,19.0,0.0,3,Command Injection
+362,10.0,0.0,3,Command Injection
+141,18.0,0.0,5,Command Injection
+116,17.0,1.0,5,Command Injection
+218,27.0,1.0,3,Command Injection
+161,6.0,0.0,2,Command Injection
+45,25.0,0.0,8,Command Injection
+77,2.0,3.0,5,Brute Force
+170,6.0,0.0,4,Command Injection
+327,9.0,0.0,2,Command Injection
+118,10.0,1.0,5,Command Injection
+113,0.0,1.0,5,Brute Force
+297,15.0,1.0,4,Command Injection
+84,3.0,4.0,5,Brute Force
+154,5.0,0.0,3,Command Injection
+54,9.0,0.0,4,Command Injection
+42,0.0,7.0,5,Brute Force
+68,2.0,9.0,5,Brute Force
+109,1.0,2.0,5,Brute Force
+189,6.0,2.0,5,Other
+91,3.0,1.0,5,Brute Force
+85,3.0,4.0,5,Brute Force
+102,10.0,0.0,4,Command Injection
+39,5.0,0.0,5,Command Injection
+34,1.0,1.0,5,Brute Force
+172,5.0,0.0,4,Command Injection
+18,3.0,7.0,5,Brute Force
+331,26.0,1.0,4,Command Injection
+51,20.0,0.0,5,Command Injection
+375,6.0,1.0,8,Command Injection
+55,1.0,9.0,5,Brute Force
+96,0.0,6.0,5,Brute Force
+61,0.0,2.0,5,Brute Force
+69,4.0,5.0,5,Brute Force
+95,10.0,1.0,3,Command Injection
+62,8.0,1.0,4,Command Injection
+263,17.0,0.0,3,Command Injection
+260,21.0,0.0,3,Command Injection
+47,21.0,1.0,8,Command Injection
+189,24.0,1.0,8,Command Injection
+134,7.0,1.0,5,Command Injection
+330,8.0,0.0,5,Command Injection
+261,13.0,0.0,4,Command Injection
+399,22.0,1.0,8,Command Injection
+139,22.0,1.0,3,Command Injection
+236,15.0,1.0,8,Command Injection
+388,10.0,0.0,3,Command Injection
+272,28.0,1.0,2,Command Injection
+125,13.0,0.0,5,Command Injection
+80,21.0,1.0,4,Command Injection
+108,10.0,0.0,8,Command Injection
+177,0.0,0.0,5,Other
+176,11.0,1.0,8,Command Injection
+219,11.0,1.0,5,Command Injection
+34,2.0,7.0,5,Brute Force
+103,2.0,8.0,5,Brute Force
+99,0.0,6.0,5,Brute Force
+110,2.0,1.0,5,Brute Force
+107,8.0,0.0,5,Command Injection
+50,14.0,1.0,8,Command Injection
+100,10.0,0.0,4,Command Injection
+39,16.0,0.0,2,Command Injection
+105,26.0,0.0,4,Command Injection
+225,9.0,0.0,5,Command Injection
+292,21.0,1.0,2,Command Injection
+215,6.0,1.0,8,Command Injection
+52,2.0,1.0,5,Brute Force
+360,28.0,0.0,4,Command Injection
+101,15.0,1.0,3,Command Injection
+71,21.0,1.0,5,Command Injection
+85,6.0,0.0,5,Other
+6,4.0,5.0,5,Brute Force
+263,23.0,1.0,5,Command Injection
+161,12.0,0.0,4,Command Injection
+326,21.0,0.0,5,Command Injection
+340,27.0,1.0,2,Command Injection
+341,16.0,0.0,4,Command Injection
+247,21.0,1.0,4,Command Injection
+375,18.0,0.0,4,Command Injection
+333,24.0,1.0,4,Command Injection
+300,5.0,1.0,4,Command Injection
+285,25.0,0.0,5,Command Injection
+226,7.0,0.0,5,Command Injection
+37,1.0,8.0,5,Brute Force
+169,20.0,0.0,3,Command Injection
+79,4.0,9.0,5,Brute Force
+144,2.0,2.0,5,Other
+92,4.0,5.0,5,Brute Force
+135,13.0,1.0,4,Command Injection
+111,17.0,1.0,5,Command Injection
+309,12.0,0.0,5,Command Injection
+74,4.0,5.0,5,Brute Force
+333,16.0,0.0,4,Command Injection
+38,3.0,5.0,5,Brute Force
+70,25.0,0.0,5,Command Injection
+377,10.0,0.0,3,Command Injection
+127,14.0,0.0,4,Command Injection
+51,16.0,1.0,4,Command Injection
+40,2.0,8.0,5,Brute Force
+82,22.0,0.0,3,Command Injection
+281,12.0,1.0,4,Command Injection
+197,23.0,0.0,5,Command Injection
+131,3.0,2.0,5,Other
+50,0.0,2.0,5,Brute Force
+214,7.0,1.0,2,Command Injection
+98,4.0,7.0,5,Brute Force
+187,9.0,1.0,5,Other
+48,4.0,7.0,5,Brute Force
+126,0.0,1.0,5,Other
+123,5.0,0.0,5,Other
+46,4.0,9.0,5,Brute Force
+37,13.0,0.0,3,Command Injection
+322,29.0,1.0,8,Command Injection
+117,15.0,1.0,8,Command Injection
+15,9.0,2.0,5,Other
+47,4.0,4.0,5,Brute Force
+25,2.0,5.0,5,Brute Force
+92,27.0,0.0,5,Command Injection
+49,2.0,5.0,5,Brute Force
+349,26.0,0.0,4,Command Injection
+101,10.0,1.0,5,Command Injection
+63,29.0,1.0,5,Command Injection
+136,7.0,0.0,5,Command Injection
+127,28.0,0.0,4,Command Injection
+310,8.0,1.0,3,Command Injection
+293,18.0,1.0,4,Command Injection
+340,6.0,0.0,8,Command Injection
+15,0.0,6.0,5,Brute Force
+16,1.0,6.0,5,Brute Force
+112,4.0,6.0,5,Brute Force
+23,0.0,5.0,5,Brute Force
+53,3.0,8.0,5,Brute Force
+107,6.0,0.0,4,Command Injection
+337,8.0,0.0,5,Command Injection
+83,14.0,0.0,3,Command Injection
+5,4.0,5.0,5,Brute Force
+35,25.0,1.0,5,Command Injection
+332,12.0,0.0,5,Command Injection
+56,3.0,8.0,5,Brute Force
+139,12.0,1.0,3,Command Injection
+82,3.0,1.0,5,Brute Force
+245,12.0,0.0,5,Command Injection
+361,28.0,0.0,5,Command Injection
+385,29.0,1.0,4,Command Injection
+206,26.0,0.0,8,Command Injection
+75,2.0,8.0,5,Brute Force
+362,16.0,0.0,5,Command Injection
+142,17.0,1.0,2,Command Injection
+349,8.0,1.0,5,Command Injection
+340,16.0,0.0,5,Command Injection
+2,6.0,1.0,5,Other
+124,9.0,0.0,4,Command Injection
+385,11.0,1.0,5,Command Injection
+104,3.0,9.0,5,Brute Force
+84,0.0,1.0,5,Other
+207,14.0,0.0,5,Command Injection
+13,2.0,7.0,5,Brute Force
+81,3.0,9.0,5,Brute Force
+208,8.0,0.0,3,Command Injection
+165,1.0,2.0,5,Other
+190,10.0,1.0,5,Command Injection
+167,23.0,0.0,4,Command Injection
+199,1.0,1.0,5,Other
+16,1.0,1.0,5,Brute Force
+385,6.0,1.0,5,Command Injection
+50,2.0,7.0,5,Brute Force
+9,1.0,0.0,5,Other
+101,0.0,7.0,5,Brute Force
+96,2.0,0.0,5,Other
+86,27.0,1.0,3,Command Injection
+109,0.0,1.0,5,Other
+333,28.0,1.0,3,Command Injection
+15,1.0,8.0,5,Brute Force
+118,4.0,2.0,5,Brute Force
+390,9.0,0.0,5,Command Injection
+199,19.0,0.0,2,Command Injection
+71,21.0,0.0,4,Command Injection
+24,2.0,5.0,5,Brute Force
+183,21.0,1.0,5,Command Injection
+209,14.0,1.0,2,Command Injection
+172,11.0,1.0,5,Command Injection
+80,4.0,9.0,5,Brute Force
+48,1.0,3.0,5,Brute Force
+248,13.0,0.0,5,Command Injection
+100,3.0,5.0,5,Brute Force
+188,4.0,0.0,5,Other
+246,12.0,1.0,3,Command Injection
+354,18.0,1.0,5,Command Injection
+277,21.0,0.0,3,Command Injection
+82,3.0,8.0,5,Brute Force
+98,10.0,1.0,4,Command Injection
+311,6.0,1.0,5,Command Injection
+210,15.0,1.0,8,Command Injection
+248,26.0,0.0,4,Command Injection
+258,9.0,0.0,4,Command Injection
+160,20.0,0.0,4,Command Injection
+358,16.0,1.0,4,Command Injection
+396,6.0,1.0,5,Command Injection
+311,16.0,0.0,4,Command Injection
+75,3.0,7.0,5,Brute Force
+61,2.0,8.0,5,Brute Force
+288,7.0,1.0,8,Command Injection
+339,29.0,1.0,2,Command Injection
+199,1.0,2.0,5,Other
+239,11.0,0.0,2,Command Injection
+141,18.0,1.0,5,Command Injection
+321,12.0,1.0,5,Command Injection
+149,3.0,0.0,5,Other
+266,27.0,1.0,5,Command Injection
+94,13.0,1.0,5,Command Injection
+228,24.0,1.0,5,Command Injection
+324,26.0,0.0,4,Command Injection
+36,18.0,1.0,2,Command Injection
+58,20.0,1.0,2,Command Injection
+106,16.0,1.0,3,Command Injection
+104,13.0,1.0,8,Command Injection
+244,27.0,1.0,5,Command Injection
+382,14.0,1.0,5,Command Injection
+318,8.0,1.0,2,Command Injection
+391,22.0,0.0,2,Command Injection
+60,7.0,2.0,5,Other
+85,4.0,7.0,5,Brute Force
+319,11.0,0.0,2,Command Injection
+136,5.0,1.0,2,Command Injection
+144,20.0,0.0,5,Command Injection
+130,6.0,0.0,5,Command Injection
+309,28.0,0.0,4,Command Injection
+382,12.0,1.0,5,Command Injection
+6,4.0,0.0,5,Other
+122,23.0,0.0,5,Command Injection
+312,11.0,1.0,5,Command Injection
+253,18.0,0.0,4,Command Injection
+69,8.0,1.0,4,Command Injection
+75,16.0,0.0,5,Command Injection
+386,10.0,0.0,4,Command Injection
+9,4.0,8.0,5,Brute Force
+10,2.0,2.0,5,Brute Force
+252,29.0,0.0,4,Command Injection
+159,7.0,1.0,3,Command Injection
+59,6.0,0.0,5,Other
+43,2.0,8.0,5,Brute Force
+153,25.0,1.0,4,Command Injection
+31,0.0,1.0,5,Brute Force
+67,2.0,4.0,5,Brute Force
+110,4.0,4.0,5,Brute Force
+289,14.0,1.0,8,Command Injection
+201,29.0,1.0,2,Command Injection
+115,20.0,0.0,8,Command Injection
+59,2.0,9.0,5,Brute Force
+6,4.0,7.0,5,Brute Force
+41,4.0,8.0,5,Brute Force
+318,28.0,1.0,5,Command Injection
+92,20.0,0.0,4,Command Injection
+137,9.0,0.0,5,Other
+58,3.0,4.0,5,Brute Force
+22,0.0,2.0,5,Other
+45,6.0,0.0,2,Command Injection
+247,29.0,0.0,4,Command Injection
+364,28.0,0.0,3,Command Injection
+88,2.0,7.0,5,Brute Force
+57,25.0,0.0,5,Command Injection
+383,7.0,1.0,5,Command Injection
+118,2.0,2.0,5,Other
+17,0.0,1.0,5,Other
+43,23.0,0.0,5,Command Injection
+187,1.0,2.0,5,Other
+319,20.0,0.0,5,Command Injection
+26,2.0,2.0,5,Other
+357,15.0,0.0,5,Command Injection
+20,7.0,1.0,5,Other
+335,12.0,0.0,8,Command Injection
+49,4.0,6.0,5,Brute Force
+254,6.0,1.0,4,Command Injection
+22,3.0,3.0,5,Brute Force
+302,21.0,0.0,3,Command Injection
+52,13.0,0.0,4,Command Injection
+270,22.0,1.0,5,Command Injection
+268,17.0,1.0,4,Command Injection
+385,13.0,1.0,3,Command Injection
+165,27.0,0.0,3,Command Injection
+47,11.0,0.0,5,Command Injection
+128,24.0,0.0,8,Command Injection
+243,29.0,1.0,4,Command Injection
+133,10.0,1.0,5,Command Injection
+40,0.0,9.0,5,Brute Force
+89,2.0,3.0,5,Brute Force
+107,4.0,5.0,5,Brute Force
+105,3.0,1.0,5,Brute Force
+33,1.0,9.0,5,Brute Force
+330,16.0,0.0,5,Command Injection
+165,8.0,1.0,5,Other
+341,26.0,1.0,4,Command Injection
+148,2.0,2.0,5,Other
+57,24.0,0.0,5,Command Injection
+72,4.0,1.0,5,Other
+70,4.0,3.0,5,Brute Force
+315,10.0,1.0,5,Command Injection
+242,20.0,0.0,5,Command Injection
+82,0.0,6.0,5,Brute Force
+17,1.0,3.0,5,Brute Force
+42,1.0,9.0,5,Brute Force
+14,1.0,0.0,5,Other
+44,3.0,7.0,5,Brute Force
+153,25.0,1.0,8,Command Injection
+144,16.0,1.0,2,Command Injection
+276,9.0,0.0,2,Command Injection
+253,28.0,0.0,5,Command Injection
+69,19.0,0.0,8,Command Injection
+52,19.0,1.0,4,Command Injection
+72,11.0,1.0,3,Command Injection
+28,2.0,7.0,5,Brute Force
+312,11.0,0.0,2,Command Injection
+74,1.0,1.0,5,Other
+197,26.0,0.0,8,Command Injection
+55,2.0,1.0,5,Brute Force
+123,21.0,0.0,4,Command Injection
+386,7.0,1.0,4,Command Injection
+27,3.0,9.0,5,Brute Force
+53,4.0,9.0,5,Brute Force
+163,10.0,1.0,4,Command Injection
+42,1.0,4.0,5,Brute Force
+232,20.0,1.0,2,Command Injection
+395,24.0,0.0,5,Command Injection
+148,7.0,2.0,5,Other
+18,2.0,6.0,5,Brute Force
+113,5.0,1.0,8,Command Injection
+107,3.0,3.0,5,Brute Force
+62,3.0,8.0,5,Brute Force
+82,4.0,3.0,5,Brute Force
+225,18.0,0.0,5,Command Injection
+341,18.0,0.0,4,Command Injection
+47,0.0,2.0,5,Brute Force
+344,9.0,0.0,5,Command Injection
+263,28.0,1.0,5,Command Injection
+100,20.0,1.0,4,Command Injection
+292,23.0,0.0,3,Command Injection
+371,6.0,1.0,4,Command Injection
+60,3.0,7.0,5,Brute Force
+176,11.0,1.0,5,Command Injection
+78,8.0,2.0,5,Other
+65,3.0,8.0,5,Brute Force
+93,0.0,3.0,5,Brute Force
+250,12.0,0.0,5,Command Injection
+30,4.0,3.0,5,Brute Force
+75,0.0,1.0,5,Brute Force
+52,4.0,4.0,5,Brute Force
+50,0.0,4.0,5,Brute Force
+151,26.0,0.0,3,Command Injection
+137,20.0,1.0,4,Command Injection
+99,4.0,5.0,5,Brute Force
+30,0.0,4.0,5,Brute Force
+45,18.0,0.0,8,Command Injection
+119,4.0,6.0,5,Brute Force
+326,18.0,0.0,4,Command Injection
+38,0.0,9.0,5,Brute Force
+85,3.0,2.0,5,Brute Force
+323,20.0,1.0,4,Command Injection
+127,23.0,1.0,4,Command Injection
+209,24.0,1.0,5,Command Injection
+29,1.0,3.0,5,Brute Force
+111,16.0,1.0,5,Command Injection
+59,2.0,8.0,5,Brute Force
+74,14.0,0.0,5,Command Injection
+75,8.0,0.0,5,Other
+305,6.0,0.0,4,Command Injection
+125,28.0,1.0,5,Command Injection
+279,12.0,1.0,3,Command Injection
+19,3.0,9.0,5,Brute Force
+240,29.0,1.0,2,Command Injection
+107,3.0,1.0,5,Other
+10,6.0,1.0,5,Other
+86,5.0,1.0,8,Command Injection
+48,3.0,6.0,5,Brute Force
+350,26.0,0.0,4,Command Injection
+193,5.0,0.0,4,Command Injection
+182,25.0,0.0,8,Command Injection
+319,8.0,0.0,2,Command Injection
+275,8.0,0.0,4,Command Injection
+300,23.0,1.0,3,Command Injection
+61,2.0,3.0,5,Brute Force
+140,8.0,0.0,5,Other
+25,2.0,5.0,5,Brute Force
+46,3.0,5.0,5,Brute Force
+59,18.0,0.0,8,Command Injection
+48,1.0,3.0,5,Brute Force
+201,7.0,1.0,5,Command Injection
+263,14.0,1.0,5,Command Injection
+181,12.0,0.0,8,Command Injection
+227,19.0,1.0,5,Command Injection
+50,4.0,6.0,5,Brute Force
+57,4.0,1.0,5,Brute Force
+55,9.0,0.0,5,Other
+71,2.0,5.0,5,Brute Force
+234,10.0,0.0,5,Command Injection
+71,4.0,0.0,5,Other
+59,3.0,7.0,5,Brute Force
+36,22.0,1.0,5,Command Injection
+82,1.0,2.0,5,Other
+398,11.0,0.0,5,Command Injection
+78,12.0,1.0,8,Command Injection
+19,4.0,1.0,5,Brute Force
+288,21.0,1.0,5,Command Injection
+344,22.0,0.0,4,Command Injection
+30,8.0,0.0,5,Other
+132,19.0,1.0,5,Command Injection
+117,0.0,1.0,5,Other
+16,3.0,2.0,5,Brute Force
+283,6.0,0.0,5,Command Injection
+91,3.0,8.0,5,Brute Force
+326,24.0,1.0,5,Command Injection
+297,25.0,0.0,8,Command Injection
+280,8.0,0.0,5,Command Injection
+66,26.0,0.0,5,Command Injection
+314,14.0,1.0,8,Command Injection
+313,29.0,1.0,2,Command Injection
+145,7.0,1.0,5,Command Injection
+300,8.0,1.0,8,Command Injection
+33,1.0,5.0,5,Brute Force
+129,0.0,2.0,5,Other
+308,15.0,0.0,5,Command Injection
+41,0.0,4.0,5,Brute Force
+334,21.0,1.0,5,Command Injection
+43,3.0,8.0,5,Brute Force
+368,8.0,1.0,5,Command Injection
+19,4.0,2.0,5,Brute Force
+288,5.0,1.0,8,Command Injection
+320,29.0,0.0,5,Command Injection
+81,18.0,0.0,5,Command Injection
+327,21.0,1.0,8,Command Injection
+31,2.0,1.0,5,Other
+245,11.0,1.0,5,Command Injection
+62,4.0,7.0,5,Brute Force
+66,4.0,9.0,5,Brute Force
+114,1.0,7.0,5,Brute Force
+122,8.0,0.0,5,Command Injection
+30,2.0,4.0,5,Brute Force
+178,1.0,1.0,5,Other
+113,25.0,0.0,4,Command Injection
+30,3.0,9.0,5,Brute Force
+179,14.0,0.0,8,Command Injection
+185,18.0,1.0,4,Command Injection
+218,7.0,1.0,5,Command Injection
+210,25.0,0.0,5,Command Injection
+240,21.0,0.0,5,Command Injection
+225,16.0,0.0,4,Command Injection
+137,3.0,0.0,5,Other
+85,2.0,5.0,5,Brute Force
+243,16.0,0.0,5,Command Injection
+24,3.0,9.0,5,Brute Force
+115,2.0,2.0,5,Brute Force
+42,4.0,3.0,5,Brute Force
+209,12.0,0.0,5,Command Injection
+183,4.0,0.0,5,Other
+110,1.0,7.0,5,Brute Force
+131,19.0,0.0,2,Command Injection
+128,9.0,2.0,5,Other
+61,17.0,0.0,4,Command Injection
+386,12.0,1.0,2,Command Injection
+201,8.0,0.0,3,Command Injection
+319,25.0,1.0,8,Command Injection
+30,2.0,8.0,5,Brute Force
+90,4.0,8.0,5,Brute Force
+108,4.0,2.0,5,Other
+78,18.0,1.0,8,Command Injection
+397,9.0,1.0,5,Command Injection
+155,24.0,1.0,8,Command Injection
+192,25.0,1.0,4,Command Injection
+221,25.0,1.0,3,Command Injection
+161,23.0,0.0,2,Command Injection
+312,12.0,1.0,5,Command Injection
+102,4.0,6.0,5,Brute Force
+147,24.0,0.0,4,Command Injection
+171,0.0,1.0,5,Other
+130,5.0,2.0,5,Other
+380,15.0,1.0,4,Command Injection
+100,1.0,7.0,5,Brute Force
+67,1.0,3.0,5,Brute Force
+197,2.0,1.0,5,Other
+10,1.0,6.0,5,Brute Force
+69,26.0,1.0,2,Command Injection
+50,4.0,9.0,5,Brute Force
+302,8.0,1.0,8,Command Injection
+91,5.0,0.0,5,Command Injection
+149,12.0,0.0,5,Command Injection
+347,15.0,0.0,4,Command Injection
+152,10.0,0.0,4,Command Injection
+25,0.0,3.0,5,Brute Force
+50,11.0,0.0,8,Command Injection
+160,18.0,1.0,5,Command Injection
+85,28.0,1.0,2,Command Injection
+90,2.0,5.0,5,Brute Force
+162,11.0,0.0,5,Command Injection
+12,0.0,5.0,5,Brute Force
+145,21.0,0.0,8,Command Injection
+67,19.0,0.0,5,Command Injection
+144,8.0,0.0,5,Command Injection
+74,6.0,1.0,5,Other
+71,0.0,1.0,5,Brute Force
+246,16.0,0.0,5,Command Injection
+76,1.0,9.0,5,Brute Force
+91,2.0,2.0,5,Brute Force
+34,2.0,1.0,5,Brute Force
+21,2.0,2.0,5,Brute Force
+68,0.0,4.0,5,Brute Force
+108,9.0,0.0,8,Command Injection
+76,3.0,3.0,5,Brute Force
+5,1.0,7.0,5,Brute Force
+189,9.0,0.0,3,Command Injection
+31,23.0,1.0,4,Command Injection
+281,19.0,1.0,4,Command Injection
+365,29.0,0.0,5,Command Injection
+341,21.0,1.0,2,Command Injection
+45,4.0,8.0,5,Brute Force
+272,14.0,0.0,4,Command Injection
+269,5.0,0.0,5,Command Injection
+41,3.0,1.0,5,Brute Force
+246,19.0,1.0,4,Command Injection
+159,8.0,1.0,5,Other
+42,3.0,2.0,5,Brute Force
+162,28.0,0.0,5,Command Injection
+63,4.0,2.0,5,Brute Force
+109,6.0,1.0,3,Command Injection
+219,6.0,1.0,5,Command Injection
+233,20.0,0.0,8,Command Injection
+309,23.0,1.0,5,Command Injection
+33,5.0,1.0,5,Command Injection
+204,27.0,0.0,3,Command Injection
+113,17.0,0.0,4,Command Injection
+252,24.0,0.0,4,Command Injection
+15,2.0,3.0,5,Brute Force
+398,19.0,1.0,5,Command Injection
+298,28.0,0.0,5,Command Injection
+43,28.0,0.0,4,Command Injection
+86,11.0,1.0,5,Command Injection
+385,8.0,1.0,2,Command Injection
+37,26.0,0.0,3,Command Injection
+13,3.0,8.0,5,Brute Force
+392,17.0,1.0,3,Command Injection
+71,6.0,1.0,4,Command Injection
+160,8.0,2.0,5,Other
+295,19.0,1.0,5,Command Injection
+149,21.0,0.0,5,Command Injection
+25,4.0,3.0,5,Brute Force
+139,19.0,1.0,3,Command Injection
+241,12.0,1.0,3,Command Injection
+261,18.0,1.0,5,Command Injection
+375,16.0,0.0,5,Command Injection
+351,28.0,0.0,4,Command Injection
+114,7.0,0.0,4,Command Injection
+203,11.0,1.0,3,Command Injection
+21,4.0,4.0,5,Brute Force
+56,2.0,4.0,5,Brute Force
+275,14.0,0.0,5,Command Injection
+46,23.0,0.0,5,Command Injection
+158,17.0,0.0,4,Command Injection
+92,4.0,6.0,5,Brute Force
+119,4.0,1.0,5,Other
+45,3.0,6.0,5,Brute Force
+96,7.0,1.0,5,Command Injection
+142,25.0,0.0,8,Command Injection
+387,19.0,0.0,4,Command Injection
+373,24.0,1.0,5,Command Injection
+329,15.0,0.0,5,Command Injection
+57,13.0,1.0,2,Command Injection
+259,20.0,1.0,4,Command Injection
+235,19.0,1.0,4,Command Injection
+166,14.0,1.0,5,Command Injection
+49,4.0,5.0,5,Brute Force
+174,29.0,1.0,4,Command Injection
+249,29.0,0.0,3,Command Injection
+81,3.0,6.0,5,Brute Force
+390,19.0,1.0,5,Command Injection
+111,0.0,0.0,5,Other
+160,21.0,1.0,8,Command Injection
+185,8.0,2.0,5,Other
+152,9.0,0.0,5,Other
+307,20.0,0.0,4,Command Injection
+70,29.0,1.0,4,Command Injection
+86,2.0,6.0,5,Brute Force
+380,11.0,0.0,4,Command Injection
+30,7.0,0.0,5,Other
+123,2.0,1.0,5,Other
+67,4.0,4.0,5,Brute Force
+270,28.0,1.0,3,Command Injection
+147,9.0,1.0,5,Other
+249,18.0,1.0,3,Command Injection
+157,2.0,0.0,5,Other
+106,2.0,3.0,5,Brute Force
+230,18.0,1.0,5,Command Injection
+260,24.0,1.0,8,Command Injection
+6,4.0,1.0,5,Brute Force
+397,19.0,1.0,5,Command Injection
+339,22.0,0.0,5,Command Injection
+270,25.0,1.0,5,Command Injection
+28,0.0,8.0,5,Brute Force
+183,17.0,0.0,5,Command Injection
+201,10.0,0.0,2,Command Injection
+356,19.0,0.0,4,Command Injection
+70,20.0,1.0,5,Command Injection
+229,14.0,1.0,5,Command Injection
+46,1.0,9.0,5,Brute Force
+189,2.0,1.0,5,Other
+76,2.0,2.0,5,Brute Force
+139,23.0,0.0,4,Command Injection
+92,7.0,0.0,4,Command Injection
+177,18.0,0.0,5,Command Injection
+82,1.0,9.0,5,Brute Force
+117,4.0,6.0,5,Brute Force
+89,3.0,1.0,5,Brute Force
+118,8.0,1.0,4,Command Injection
+222,17.0,0.0,5,Command Injection
+48,1.0,8.0,5,Brute Force
+85,0.0,4.0,5,Brute Force
+97,17.0,1.0,5,Command Injection
+12,1.0,9.0,5,Brute Force
+391,14.0,1.0,4,Command Injection
+319,27.0,0.0,5,Command Injection
+16,3.0,4.0,5,Brute Force
+89,1.0,4.0,5,Brute Force
+55,4.0,5.0,5,Brute Force
+261,29.0,0.0,5,Command Injection
+64,22.0,1.0,5,Command Injection
+61,11.0,1.0,3,Command Injection
+382,12.0,1.0,4,Command Injection
+289,29.0,1.0,3,Command Injection
+193,22.0,1.0,5,Command Injection
+92,18.0,0.0,5,Command Injection
+163,22.0,1.0,5,Command Injection
+162,5.0,2.0,5,Other
+127,12.0,0.0,2,Command Injection
+23,3.0,3.0,5,Brute Force
+136,19.0,0.0,5,Command Injection
+41,0.0,3.0,5,Brute Force
+189,17.0,0.0,3,Command Injection
+21,1.0,7.0,5,Brute Force
+372,16.0,0.0,4,Command Injection
+2,0.0,1.0,5,Other
+360,7.0,1.0,5,Command Injection
+172,17.0,0.0,5,Command Injection
+140,0.0,0.0,5,Other
+66,1.0,8.0,5,Brute Force
+175,7.0,0.0,5,Other
+44,15.0,1.0,5,Command Injection
+48,4.0,1.0,5,Other
+211,17.0,1.0,5,Command Injection
+18,0.0,3.0,5,Brute Force
+128,1.0,2.0,5,Other
+183,19.0,0.0,2,Command Injection
+9,4.0,4.0,5,Brute Force
+372,26.0,0.0,8,Command Injection
+280,24.0,1.0,4,Command Injection
+194,20.0,1.0,5,Command Injection
+225,15.0,0.0,8,Command Injection
+100,1.0,6.0,5,Brute Force
+286,15.0,1.0,5,Command Injection
+255,21.0,0.0,4,Command Injection
+110,2.0,1.0,5,Brute Force
+175,22.0,1.0,4,Command Injection
+265,29.0,1.0,2,Command Injection
+103,4.0,9.0,5,Brute Force
+71,12.0,1.0,4,Command Injection
+51,3.0,9.0,5,Brute Force
+190,27.0,1.0,2,Command Injection
+256,19.0,0.0,5,Command Injection
+214,19.0,0.0,5,Command Injection
+304,15.0,0.0,8,Command Injection
+344,16.0,1.0,4,Command Injection
+343,15.0,1.0,4,Command Injection
+17,5.0,0.0,5,Other
+32,27.0,0.0,4,Command Injection
+94,2.0,2.0,5,Brute Force
+98,10.0,1.0,2,Command Injection
+333,9.0,1.0,3,Command Injection
+264,29.0,1.0,4,Command Injection
+79,11.0,1.0,2,Command Injection
+45,2.0,5.0,5,Brute Force
+37,1.0,4.0,5,Brute Force
+109,2.0,6.0,5,Brute Force
+319,27.0,0.0,8,Command Injection
+224,8.0,0.0,5,Command Injection
+156,26.0,0.0,8,Command Injection
+45,1.0,9.0,5,Brute Force
+272,10.0,1.0,5,Command Injection
+62,0.0,1.0,5,Brute Force
+182,26.0,0.0,2,Command Injection
+277,17.0,0.0,2,Command Injection
+54,3.0,3.0,5,Brute Force
+210,16.0,0.0,5,Command Injection
+94,28.0,1.0,8,Command Injection
+121,28.0,0.0,5,Command Injection
+107,17.0,1.0,5,Command Injection
+178,15.0,1.0,5,Command Injection
+66,0.0,2.0,5,Other
+85,4.0,4.0,5,Brute Force
+257,7.0,1.0,3,Command Injection
+390,28.0,0.0,4,Command Injection
+67,2.0,1.0,5,Brute Force
+322,20.0,1.0,5,Command Injection
+338,28.0,0.0,2,Command Injection
+394,24.0,0.0,4,Command Injection
+126,18.0,0.0,5,Command Injection
+143,8.0,0.0,5,Command Injection
+115,2.0,6.0,5,Brute Force
+55,2.0,1.0,5,Other
+194,6.0,1.0,8,Command Injection
+19,3.0,6.0,5,Brute Force
+127,9.0,0.0,5,Other
+228,12.0,0.0,4,Command Injection
+150,26.0,0.0,5,Command Injection
+119,0.0,9.0,5,Brute Force
+27,1.0,1.0,5,Brute Force
+86,26.0,1.0,4,Command Injection
+233,13.0,0.0,2,Command Injection
+28,4.0,4.0,5,Brute Force
+376,22.0,0.0,3,Command Injection
+37,19.0,1.0,4,Command Injection
+319,8.0,0.0,5,Command Injection
+39,4.0,2.0,5,Brute Force
+58,0.0,3.0,5,Brute Force
+195,17.0,1.0,4,Command Injection
+373,20.0,0.0,8,Command Injection
+228,24.0,0.0,5,Command Injection
+94,21.0,1.0,5,Command Injection
+284,16.0,0.0,3,Command Injection
+119,1.0,7.0,5,Brute Force
+55,3.0,8.0,5,Brute Force
+264,22.0,0.0,2,Command Injection
+184,6.0,2.0,5,Other
+395,22.0,0.0,8,Command Injection
+76,9.0,0.0,5,Command Injection
+335,6.0,0.0,5,Command Injection
+136,13.0,0.0,2,Command Injection
+73,4.0,9.0,5,Brute Force
+31,0.0,2.0,5,Other
+106,0.0,2.0,5,Brute Force
+41,3.0,6.0,5,Brute Force
+302,20.0,1.0,8,Command Injection
+164,18.0,1.0,4,Command Injection
+34,8.0,2.0,5,Other
+110,1.0,9.0,5,Brute Force
+116,3.0,6.0,5,Brute Force
+168,11.0,1.0,5,Command Injection
+119,2.0,2.0,5,Other
+77,0.0,7.0,5,Brute Force
+169,17.0,1.0,4,Command Injection
+344,12.0,0.0,2,Command Injection
+52,22.0,1.0,4,Command Injection
+149,4.0,2.0,5,Other
+44,4.0,5.0,5,Brute Force
+48,3.0,7.0,5,Brute Force
+57,8.0,0.0,2,Command Injection
+232,14.0,0.0,4,Command Injection
+43,2.0,3.0,5,Brute Force
+335,18.0,1.0,4,Command Injection
+232,16.0,0.0,5,Command Injection
+220,20.0,1.0,5,Command Injection
+94,1.0,0.0,5,Other
+387,18.0,1.0,2,Command Injection
+93,12.0,1.0,4,Command Injection
+105,4.0,1.0,5,Brute Force
+70,3.0,7.0,5,Brute Force
+21,2.0,4.0,5,Brute Force
+318,16.0,1.0,5,Command Injection
+230,11.0,1.0,8,Command Injection
+362,5.0,1.0,8,Command Injection
+329,12.0,1.0,5,Command Injection
+341,28.0,1.0,5,Command Injection
+98,2.0,3.0,5,Brute Force
+254,26.0,0.0,5,Command Injection
+51,23.0,1.0,5,Command Injection
+39,22.0,0.0,3,Command Injection
+325,23.0,0.0,3,Command Injection
+172,28.0,1.0,8,Command Injection
+381,23.0,1.0,4,Command Injection
+68,1.0,2.0,5,Brute Force
+172,5.0,0.0,2,Command Injection
+231,26.0,1.0,5,Command Injection
+54,3.0,0.0,5,Other
+37,0.0,5.0,5,Brute Force
+53,19.0,0.0,8,Command Injection
+73,4.0,6.0,5,Brute Force
+250,12.0,1.0,5,Command Injection
+27,4.0,6.0,5,Brute Force
+5,2.0,8.0,5,Brute Force
+28,3.0,6.0,5,Brute Force
+243,29.0,0.0,5,Command Injection
+117,0.0,9.0,5,Brute Force
+115,1.0,4.0,5,Brute Force
+106,0.0,8.0,5,Brute Force
+89,0.0,7.0,5,Brute Force
+192,8.0,1.0,5,Command Injection
+117,9.0,0.0,3,Command Injection
+313,27.0,0.0,4,Command Injection
+70,29.0,1.0,4,Command Injection
+47,28.0,0.0,4,Command Injection
+260,17.0,0.0,4,Command Injection
+38,0.0,3.0,5,Brute Force
+242,17.0,1.0,5,Command Injection
+190,12.0,1.0,8,Command Injection
+104,18.0,0.0,5,Command Injection
+175,9.0,1.0,2,Command Injection
+147,17.0,0.0,5,Command Injection
+29,2.0,9.0,5,Brute Force
+333,9.0,0.0,8,Command Injection
+154,22.0,0.0,2,Command Injection
+36,6.0,1.0,5,Other
+195,8.0,0.0,5,Other
+35,3.0,4.0,5,Brute Force
+107,26.0,1.0,5,Command Injection
+77,8.0,1.0,5,Other
+92,9.0,1.0,2,Command Injection
+50,1.0,2.0,5,Brute Force
+365,29.0,1.0,2,Command Injection
+83,2.0,6.0,5,Brute Force
+191,15.0,0.0,4,Command Injection
+184,0.0,0.0,5,Other
+174,4.0,0.0,5,Other
+73,3.0,2.0,5,Brute Force
+161,21.0,1.0,4,Command Injection
+252,23.0,1.0,2,Command Injection
+358,10.0,1.0,5,Command Injection
+171,25.0,1.0,8,Command Injection
+170,14.0,1.0,4,Command Injection
+321,29.0,0.0,5,Command Injection
+261,20.0,1.0,8,Command Injection
+104,13.0,0.0,3,Command Injection
+62,21.0,1.0,5,Command Injection
+352,5.0,1.0,4,Command Injection
+56,26.0,0.0,8,Command Injection
+71,22.0,1.0,5,Command Injection
+161,8.0,1.0,4,Command Injection
+280,23.0,1.0,4,Command Injection
+383,26.0,0.0,5,Command Injection
+22,0.0,8.0,5,Brute Force
+52,29.0,0.0,5,Command Injection
+42,3.0,6.0,5,Brute Force
+278,27.0,0.0,5,Command Injection
+99,0.0,4.0,5,Brute Force
+96,18.0,1.0,5,Command Injection
+29,0.0,1.0,5,Brute Force
+139,7.0,0.0,3,Command Injection
+77,3.0,5.0,5,Brute Force
+197,18.0,1.0,3,Command Injection
+212,17.0,0.0,4,Command Injection
+81,4.0,6.0,5,Brute Force
+90,10.0,1.0,8,Command Injection
+82,3.0,2.0,5,Brute Force
+341,8.0,0.0,5,Command Injection
+374,5.0,1.0,4,Command Injection
+93,2.0,7.0,5,Brute Force
+376,9.0,0.0,5,Command Injection
+298,15.0,1.0,5,Command Injection
+249,8.0,1.0,5,Command Injection
+78,19.0,0.0,8,Command Injection
+367,18.0,0.0,2,Command Injection
+85,22.0,0.0,4,Command Injection
+83,21.0,0.0,2,Command Injection
+163,10.0,1.0,8,Command Injection
+99,14.0,0.0,4,Command Injection
+87,20.0,1.0,5,Command Injection
+313,18.0,1.0,4,Command Injection
+395,15.0,0.0,8,Command Injection
+214,22.0,0.0,5,Command Injection
+104,4.0,5.0,5,Brute Force
+195,3.0,0.0,5,Other
+36,18.0,0.0,3,Command Injection
+28,0.0,3.0,5,Brute Force
+381,13.0,0.0,4,Command Injection
+32,12.0,0.0,5,Command Injection
+255,27.0,1.0,3,Command Injection
+116,0.0,3.0,5,Brute Force
+83,28.0,1.0,5,Command Injection
+35,2.0,1.0,5,Brute Force
+262,7.0,1.0,4,Command Injection
+240,9.0,0.0,4,Command Injection
+33,10.0,1.0,3,Command Injection
+83,16.0,1.0,5,Command Injection
+152,24.0,0.0,5,Command Injection
+105,4.0,5.0,5,Brute Force
+282,21.0,1.0,5,Command Injection
+7,4.0,7.0,5,Brute Force
+387,17.0,0.0,5,Command Injection
+33,14.0,1.0,4,Command Injection
+45,25.0,0.0,4,Command Injection
+362,19.0,1.0,5,Command Injection
+175,1.0,1.0,5,Other
+344,26.0,1.0,4,Command Injection
+10,0.0,6.0,5,Brute Force
+36,26.0,0.0,5,Command Injection
+5,2.0,9.0,5,Brute Force
+349,25.0,0.0,5,Command Injection
+286,29.0,0.0,2,Command Injection
+54,2.0,3.0,5,Brute Force
+38,3.0,7.0,5,Brute Force
+107,2.0,3.0,5,Brute Force
+69,0.0,3.0,5,Brute Force
+71,22.0,0.0,2,Command Injection
+77,6.0,0.0,3,Command Injection
+162,5.0,0.0,4,Command Injection
+213,26.0,0.0,5,Command Injection
+315,12.0,0.0,2,Command Injection
+84,7.0,1.0,4,Command Injection
+217,29.0,0.0,8,Command Injection
+276,14.0,0.0,4,Command Injection
+162,0.0,0.0,5,Other
+191,13.0,1.0,4,Command Injection
+85,29.0,1.0,3,Command Injection
+58,9.0,0.0,5,Other
+116,3.0,1.0,5,Brute Force
+7,1.0,8.0,5,Brute Force
+8,1.0,3.0,5,Brute Force
+357,26.0,1.0,2,Command Injection
+57,5.0,2.0,5,Other
+74,0.0,1.0,5,Brute Force
+4,0.0,1.0,5,Other
+78,1.0,9.0,5,Brute Force
+216,26.0,0.0,5,Command Injection
+77,3.0,1.0,5,Brute Force
+10,1.0,8.0,5,Brute Force
+296,28.0,1.0,5,Command Injection
+53,1.0,2.0,5,Brute Force
+238,8.0,1.0,2,Command Injection
+64,27.0,1.0,5,Command Injection
+91,25.0,1.0,5,Command Injection
+165,6.0,0.0,8,Command Injection
+112,4.0,9.0,5,Brute Force
+350,19.0,1.0,4,Command Injection
+159,21.0,1.0,4,Command Injection
+387,11.0,1.0,2,Command Injection
+81,5.0,0.0,3,Command Injection
+45,4.0,2.0,5,Brute Force
+97,15.0,0.0,5,Command Injection
+285,8.0,0.0,5,Command Injection
+174,10.0,0.0,4,Command Injection
+43,2.0,4.0,5,Brute Force
+358,18.0,0.0,2,Command Injection
+234,28.0,0.0,4,Command Injection
+231,29.0,0.0,4,Command Injection
+101,1.0,7.0,5,Brute Force
+352,23.0,1.0,5,Command Injection
+368,20.0,0.0,5,Command Injection
+216,19.0,1.0,5,Command Injection
+18,3.0,4.0,5,Brute Force
+58,7.0,0.0,2,Command Injection
+33,24.0,0.0,3,Command Injection
+256,11.0,1.0,8,Command Injection
+297,17.0,1.0,3,Command Injection
+14,0.0,3.0,5,Brute Force
+278,28.0,1.0,3,Command Injection
+248,29.0,1.0,5,Command Injection
+64,1.0,6.0,5,Brute Force
+107,0.0,2.0,5,Brute Force
+74,0.0,1.0,5,Brute Force
+89,2.0,9.0,5,Brute Force
+92,10.0,1.0,5,Command Injection
+321,7.0,1.0,5,Command Injection
+352,16.0,0.0,4,Command Injection
+115,1.0,3.0,5,Brute Force
+96,4.0,6.0,5,Brute Force
+380,19.0,0.0,4,Command Injection
+92,15.0,0.0,5,Command Injection
+19,3.0,1.0,5,Brute Force
+133,11.0,0.0,3,Command Injection
+118,3.0,3.0,5,Brute Force
+134,7.0,0.0,2,Command Injection
+15,3.0,2.0,5,Brute Force
+79,3.0,2.0,5,Brute Force
+127,16.0,1.0,2,Command Injection
+298,14.0,0.0,8,Command Injection
+297,17.0,0.0,4,Command Injection
+105,1.0,3.0,5,Brute Force
+52,1.0,2.0,5,Brute Force
+39,2.0,1.0,5,Other
+331,10.0,0.0,5,Command Injection
+68,4.0,7.0,5,Brute Force
+185,20.0,0.0,4,Command Injection
+334,23.0,0.0,5,Command Injection
+333,12.0,1.0,4,Command Injection
+313,9.0,0.0,3,Command Injection
+75,27.0,0.0,4,Command Injection
+93,1.0,9.0,5,Brute Force
+34,1.0,2.0,5,Brute Force
+137,19.0,0.0,4,Command Injection
+171,3.0,0.0,5,Other
+76,16.0,1.0,5,Command Injection
+28,7.0,2.0,5,Other
+65,3.0,4.0,5,Brute Force
+116,2.0,7.0,5,Brute Force
+160,10.0,1.0,4,Command Injection
+159,25.0,1.0,4,Command Injection
+100,0.0,5.0,5,Brute Force
+39,2.0,5.0,5,Brute Force
+96,3.0,3.0,5,Brute Force
+230,17.0,0.0,8,Command Injection
+109,18.0,0.0,3,Command Injection
+306,21.0,1.0,4,Command Injection
+291,5.0,1.0,8,Command Injection
+82,2.0,9.0,5,Brute Force
+31,0.0,2.0,5,Brute Force
+151,11.0,1.0,5,Command Injection
+122,8.0,1.0,5,Other
+277,16.0,1.0,2,Command Injection
+126,7.0,0.0,5,Other
+266,6.0,0.0,3,Command Injection
+222,20.0,1.0,2,Command Injection
+7,4.0,3.0,5,Brute Force
+21,0.0,8.0,5,Brute Force
+18,1.0,4.0,5,Brute Force
+380,7.0,0.0,4,Command Injection
+321,24.0,0.0,4,Command Injection
+218,25.0,0.0,5,Command Injection
+53,4.0,6.0,5,Brute Force
+312,19.0,1.0,8,Command Injection
+100,2.0,3.0,5,Brute Force
+87,2.0,3.0,5,Brute Force
+192,15.0,1.0,2,Command Injection
+151,24.0,1.0,2,Command Injection
+306,5.0,1.0,4,Command Injection
+60,8.0,1.0,5,Command Injection
+388,15.0,0.0,8,Command Injection
+243,27.0,1.0,4,Command Injection
+324,9.0,1.0,4,Command Injection
+7,0.0,8.0,5,Brute Force
+54,4.0,3.0,5,Brute Force
+324,18.0,1.0,4,Command Injection
+88,2.0,4.0,5,Brute Force
+188,9.0,1.0,8,Command Injection
+74,4.0,7.0,5,Brute Force
+339,7.0,0.0,5,Command Injection
+389,15.0,1.0,4,Command Injection
+391,29.0,0.0,5,Command Injection
+294,7.0,0.0,5,Command Injection
+105,2.0,1.0,5,Brute Force
+257,6.0,0.0,5,Command Injection
+218,26.0,1.0,4,Command Injection
+393,6.0,0.0,4,Command Injection
+371,21.0,1.0,2,Command Injection
+92,1.0,9.0,5,Brute Force
+176,20.0,0.0,8,Command Injection
+76,0.0,7.0,5,Brute Force
+248,15.0,1.0,3,Command Injection
+22,3.0,9.0,5,Brute Force
+254,12.0,1.0,8,Command Injection
+241,12.0,0.0,4,Command Injection
+79,0.0,3.0,5,Brute Force
+90,1.0,2.0,5,Brute Force
+165,27.0,1.0,5,Command Injection
+21,1.0,9.0,5,Brute Force
+301,9.0,0.0,3,Command Injection
+86,3.0,2.0,5,Brute Force
+45,2.0,1.0,5,Brute Force
+41,4.0,0.0,5,Other
+248,9.0,0.0,8,Command Injection
+197,28.0,1.0,4,Command Injection
+51,3.0,9.0,5,Brute Force
+231,16.0,1.0,5,Command Injection
+66,4.0,6.0,5,Brute Force
+17,1.0,9.0,5,Brute Force
+54,12.0,0.0,5,Command Injection
+49,1.0,1.0,5,Brute Force
+78,4.0,6.0,5,Brute Force
+99,4.0,6.0,5,Brute Force
+233,18.0,1.0,4,Command Injection
+31,2.0,5.0,5,Brute Force
+367,14.0,0.0,4,Command Injection
+79,4.0,9.0,5,Brute Force
+59,7.0,1.0,5,Command Injection
+52,3.0,2.0,5,Other
+241,26.0,1.0,4,Command Injection
+164,25.0,0.0,4,Command Injection
+224,18.0,1.0,3,Command Injection
+54,4.0,7.0,5,Brute Force
+390,18.0,0.0,8,Command Injection
+114,2.0,1.0,5,Brute Force
+64,4.0,5.0,5,Brute Force
+266,17.0,0.0,3,Command Injection
+66,13.0,0.0,4,Command Injection
+194,17.0,0.0,4,Command Injection
+24,0.0,7.0,5,Brute Force
+48,9.0,2.0,5,Other
+318,14.0,1.0,5,Command Injection
+89,18.0,1.0,2,Command Injection
+65,21.0,0.0,5,Command Injection
+396,20.0,0.0,3,Command Injection
+289,13.0,1.0,2,Command Injection
+89,5.0,1.0,5,Other
+314,25.0,0.0,5,Command Injection
+230,24.0,0.0,4,Command Injection
+365,10.0,1.0,3,Command Injection
+127,26.0,0.0,5,Command Injection
+170,26.0,0.0,5,Command Injection
+197,13.0,1.0,3,Command Injection
+23,0.0,1.0,5,Brute Force
+357,23.0,0.0,4,Command Injection
+354,15.0,1.0,3,Command Injection
+109,0.0,1.0,5,Other
+116,19.0,0.0,3,Command Injection
+184,23.0,0.0,8,Command Injection
+92,1.0,8.0,5,Brute Force
+150,20.0,0.0,4,Command Injection
+38,3.0,8.0,5,Brute Force
+326,14.0,0.0,5,Command Injection
+258,11.0,0.0,3,Command Injection
+96,4.0,6.0,5,Brute Force
+89,24.0,1.0,4,Command Injection
+190,9.0,2.0,5,Other
+28,3.0,8.0,5,Brute Force
+140,4.0,1.0,5,Other
+77,2.0,8.0,5,Brute Force
+124,13.0,1.0,3,Command Injection
+85,16.0,0.0,3,Command Injection
+335,19.0,1.0,8,Command Injection
+314,6.0,0.0,5,Command Injection
+58,4.0,9.0,5,Brute Force
+110,0.0,3.0,5,Brute Force
+35,1.0,1.0,5,Other
+176,20.0,1.0,5,Command Injection
+42,4.0,7.0,5,Brute Force
+165,24.0,1.0,2,Command Injection
+42,0.0,2.0,5,Brute Force
+68,9.0,0.0,3,Command Injection
+17,2.0,6.0,5,Brute Force
+134,16.0,0.0,3,Command Injection
+58,3.0,5.0,5,Brute Force
+33,0.0,7.0,5,Brute Force
+100,3.0,1.0,5,Brute Force
+55,3.0,9.0,5,Brute Force
+189,13.0,0.0,5,Command Injection
+319,19.0,1.0,4,Command Injection
+64,23.0,0.0,5,Command Injection
+71,3.0,3.0,5,Brute Force
+315,14.0,0.0,2,Command Injection
+138,29.0,1.0,5,Command Injection
+153,16.0,1.0,2,Command Injection
+49,4.0,1.0,5,Brute Force
+323,28.0,0.0,4,Command Injection
+92,0.0,9.0,5,Brute Force
+55,23.0,0.0,8,Command Injection
+282,12.0,0.0,8,Command Injection
+82,0.0,7.0,5,Brute Force
+94,0.0,5.0,5,Brute Force
+202,23.0,0.0,8,Command Injection
+273,14.0,1.0,5,Command Injection
+116,2.0,4.0,5,Brute Force
+34,26.0,1.0,5,Command Injection
+314,25.0,1.0,3,Command Injection
+365,29.0,0.0,2,Command Injection
+172,7.0,0.0,5,Command Injection
+32,2.0,7.0,5,Brute Force
+152,25.0,1.0,2,Command Injection
+15,8.0,1.0,5,Other
+25,3.0,3.0,5,Brute Force
+18,3.0,2.0,5,Other
+129,11.0,1.0,2,Command Injection
+54,2.0,4.0,5,Brute Force
+101,3.0,4.0,5,Brute Force
+327,26.0,0.0,8,Command Injection
+340,5.0,1.0,4,Command Injection
+61,1.0,3.0,5,Brute Force
+141,2.0,2.0,5,Other
+47,0.0,8.0,5,Brute Force
+17,0.0,2.0,5,Brute Force
+96,2.0,5.0,5,Brute Force
+80,4.0,7.0,5,Brute Force
+140,2.0,2.0,5,Other
+86,1.0,2.0,5,Other
+91,1.0,7.0,5,Brute Force
+40,1.0,8.0,5,Brute Force
+111,11.0,0.0,2,Command Injection
+32,3.0,3.0,5,Brute Force
+117,1.0,1.0,5,Brute Force
+85,2.0,6.0,5,Brute Force
+48,23.0,0.0,8,Command Injection
+220,7.0,1.0,8,Command Injection
+46,5.0,1.0,5,Command Injection
+182,2.0,0.0,5,Other
+148,25.0,1.0,5,Command Injection
+159,21.0,1.0,5,Command Injection
+190,3.0,1.0,5,Other
+110,24.0,1.0,5,Command Injection
+209,8.0,0.0,2,Command Injection
+143,26.0,0.0,2,Command Injection
+52,4.0,4.0,5,Brute Force
+107,4.0,3.0,5,Brute Force
+80,2.0,2.0,5,Brute Force
+175,29.0,1.0,5,Command Injection
+50,9.0,0.0,4,Command Injection
+161,3.0,2.0,5,Other
+72,3.0,3.0,5,Brute Force
+50,4.0,7.0,5,Brute Force
+167,0.0,1.0,5,Other
+53,1.0,1.0,5,Other
+191,19.0,0.0,5,Command Injection
+61,11.0,0.0,8,Command Injection
+119,19.0,1.0,2,Command Injection
+393,23.0,0.0,5,Command Injection
+202,11.0,1.0,5,Command Injection
+12,2.0,3.0,5,Brute Force
+276,7.0,0.0,5,Command Injection
+51,1.0,2.0,5,Other
+91,1.0,6.0,5,Brute Force
+39,19.0,0.0,4,Command Injection
+72,24.0,0.0,3,Command Injection
+371,12.0,1.0,4,Command Injection
+289,13.0,0.0,5,Command Injection
+42,4.0,5.0,5,Brute Force
+96,3.0,7.0,5,Brute Force
+223,18.0,1.0,5,Command Injection
+42,2.0,0.0,5,Other
+99,4.0,7.0,5,Brute Force
+84,20.0,0.0,2,Command Injection
+344,22.0,1.0,5,Command Injection
+300,27.0,0.0,4,Command Injection
+95,12.0,0.0,8,Command Injection
+119,2.0,2.0,5,Brute Force
+224,21.0,1.0,2,Command Injection
+297,20.0,0.0,3,Command Injection
+389,23.0,0.0,5,Command Injection
+33,0.0,2.0,5,Brute Force
+157,12.0,0.0,5,Command Injection
+54,0.0,1.0,5,Brute Force
+19,0.0,7.0,5,Brute Force
+254,15.0,0.0,4,Command Injection
+14,3.0,6.0,5,Brute Force
+85,1.0,4.0,5,Brute Force
+308,23.0,1.0,5,Command Injection
+164,2.0,2.0,5,Other
+77,1.1233385140742072,8.876661485925792,5,Brute Force
+54,3.55158787254407,3.0,5,Brute Force
+109,0.16483426113700095,2.835165738862999,5,Brute Force
+65,4.0,5.5887448834146305,5,Brute Force
+99,0.0,4.222397716264775,5,Brute Force
+109,0.48037008186635466,8.480370081866354,5,Brute Force
+27,4.0,4.0,5,Brute Force
+6,4.0,7.0,5,Brute Force
+78,1.0,6.0,5,Brute Force
+96,3.607010551021141,6.3929894489788595,5,Brute Force
+119,0.8291642207065144,7.341671558586971,5,Brute Force
+18,0.5690814691657476,4.430918530834252,5,Brute Force
+5,1.0635118295900012,6.936488170409999,5,Brute Force
+55,2.0,5.0,5,Brute Force
+28,0.2677042376012664,7.866147881199367,5,Brute Force
+37,1.0136719648269974,3.9863280351730026,5,Brute Force
+13,2.9246409396475377,6.075359060352462,5,Brute Force
+82,3.0,1.3082856028310879,5,Brute Force
+95,0.0,6.931307449941074,5,Brute Force
+85,2.0,6.0,5,Brute Force
+55,1.0,8.826331504515286,5,Brute Force
+71,3.414850467674528,3.414850467674528,5,Brute Force
+71,0.27387915592815193,1.0,5,Brute Force
+50,3.242918797957544,9.0,5,Brute Force
+45,1.0,9.0,5,Brute Force
+84,3.0,4.0,5,Brute Force
+79,0.2050453285065249,3.0,5,Brute Force
+37,1.0,7.7485575604882015,5,Brute Force
+59,2.725268202974091,7.274731797025908,5,Brute Force
+54,2.2072276490080567,3.0,5,Brute Force
+9,2.2435586650416157,4.0,5,Brute Force
+92,1.2430008678277713,7.756999132172229,5,Brute Force
+25,2.0,5.0,5,Brute Force
+92,1.7313275179746928,7.268672482025307,5,Brute Force
+49,2.0221847420303014,7.0,5,Brute Force
+41,0.0,2.5018348133541073,5,Brute Force
+94,0.0,5.476210696789014,5,Brute Force
+61,2.168628509937499,8.0,5,Brute Force
+72,3.6922227602289506,3.6922227602289506,5,Brute Force
+100,1.0,6.816385735213062,5,Brute Force
+105,3.9679737654398233,5.032026234560177,5,Brute Force
+115,3.0,8.823183553268708,5,Brute Force
+6,4.0,7.0,5,Brute Force
+101,0.5899558971376361,7.820088205724728,5,Brute Force
+116,3.0,6.0,5,Brute Force
+117,3.579464221334925,6.0,5,Brute Force
+61,4.0,3.569336527888619,5,Brute Force
+101,0.6393613569742423,7.0,5,Brute Force
+42,4.0,5.0,5,Brute Force
+103,1.9031510586766263,8.0,5,Brute Force
+82,3.0,1.3827362879027079,5,Brute Force
+5,4.0,5.0,5,Brute Force
+42,3.608087849541885,2.608087849541885,5,Brute Force
+55,2.0,5.0,5,Brute Force
+48,3.0,6.445184391457774,5,Brute Force
+30,2.0,4.9089979089486695,5,Brute Force
+118,2.2736029673497717,2.2736029673497717,5,Brute Force
+96,3.4525536931008887,6.547446306899111,5,Brute Force
+100,0.4509104474161044,7.0,5,Brute Force
+58,2.1790574431934537,9.0,5,Brute Force
+15,3.0,2.0,5,Brute Force
+87,2.0,4.476397723984989,5,Brute Force
+114,2.0,2.697641871493463,5,Brute Force
+77,1.5929435513477546,3.2035282243261225,5,Brute Force
+25,4.0,5.081306384107656,5,Brute Force
+10,2.684182830037419,8.0,5,Brute Force
+79,3.2310822586846024,5.231082258684602,5,Brute Force
+89,2.933764022148134,1.1324719557037317,5,Brute Force
+41,0.954138733595367,2.045861266404633,5,Brute Force
+88,2.0,7.7583886311558174,5,Brute Force
+14,0.0,3.6525865917745857,5,Brute Force
+114,1.0,7.209130791078514,5,Brute Force
+103,1.1592998689434768,8.0,5,Brute Force
+58,0.6831264209130901,2.658436789543455,5,Brute Force
+92,0.4627365832859299,9.0,5,Brute Force
+44,3.0,6.460119158983572,5,Brute Force
+58,0.0,8.415233894050846,5,Brute Force
+21,2.4003004889102812,2.4003004889102812,5,Brute Force
+73,2.3953351473938636,3.0,5,Brute Force
+79,1.1800672723492984,8.180067272349298,5,Brute Force
+96,1.393002932454158,5.303498533772921,5,Brute Force
+87,2.0,3.4116612143575282,5,Brute Force
+32,2.1256823951455828,3.8743176048544172,5,Brute Force
+37,2.4847639451357892,3.0,5,Brute Force
+113,1.0,1.0268896507298957,5,Brute Force
+40,1.39806460445904,8.0,5,Brute Force
+82,0.0,6.776150934093679,5,Brute Force
+62,3.821790636844449,7.178209363155551,5,Brute Force
+21,0.6549173721776133,8.654917372177612,5,Brute Force
+54,2.0,4.0,5,Brute Force
+31,0.0,1.0318046814851651,5,Brute Force
+27,4.0,2.646145927622226,5,Brute Force
+78,1.0,6.0,5,Brute Force
+101,0.0,6.3559914842719865,5,Brute Force
+79,1.8942172628959257,7.105782737104074,5,Brute Force
+79,3.128748398299644,5.128748398299644,5,Brute Force
+89,1.6699004866898446,8.339800973379688,5,Brute Force
+41,4.0,3.0,5,Brute Force
+82,2.092290586228746,8.907709413771254,5,Brute Force
+99,1.518854605943707,7.0,5,Brute Force
+26,4.0,6.0,5,Brute Force
+15,1.4883429864527389,2.488342986452739,5,Brute Force
+89,0.15697768271619372,6.843022317283806,5,Brute Force
+21,0.0,8.0,5,Brute Force
+87,2.0,3.9974049756163534,5,Brute Force
+99,0.8683011070355868,6.0,5,Brute Force
+12,0.08451700768068193,2.0,5,Brute Force
+29,0.0,8.0,5,Brute Force
+56,2.0,3.9862569958668153,5,Brute Force
+47,3.5365906459873324,6.0,5,Brute Force
+85,1.0759582408925668,4.075958240892567,5,Brute Force
+28,0.23611653311740433,3.0,5,Brute Force
+40,0.7599554089375856,8.240044591062414,5,Brute Force
+17,2.0,6.0,5,Brute Force
+79,3.0,2.0,5,Brute Force
+99,0.06234136251124145,6.0,5,Brute Force
+76,3.0,3.0,5,Brute Force
+51,2.0,6.0,5,Brute Force
+117,0.0,9.0,5,Brute Force
+81,3.844440672633629,6.0,5,Brute Force
+15,1.2503837679914125,1.0,5,Brute Force
+10,0.06094430546718832,2.0,5,Brute Force
+34,1.0,2.0,5,Brute Force
+109,0.6458533292068745,8.645853329206874,5,Brute Force
+84,3.6028361674959175,4.0,5,Brute Force
+67,1.0,2.895130833467519,5,Brute Force
+50,2.0,6.262594793906181,5,Brute Force
+96,4.0,6.0,5,Brute Force
+56,3.4360349079811634,8.436034907981163,5,Brute Force
+84,3.0,4.0,5,Brute Force
+79,3.0892043287120563,5.089204328712056,5,Brute Force
+23,0.0,1.929328871968953,5,Brute Force
+50,4.0,6.766783588450199,5,Brute Force
+112,4.0,6.0,5,Brute Force
+17,1.0,3.526030058569444,5,Brute Force
+98,4.0,7.0,5,Brute Force
+116,2.2976456805831518,1.0,5,Brute Force
+54,3.52041789824575,7.47958210175425,5,Brute Force
+99,3.584199484714169,5.0,5,Brute Force
+20,3.736822475394913,9.0,5,Brute Force
+13,2.5577422659504374,7.557742265950438,5,Brute Force
+106,0.0,2.0,5,Brute Force
+107,2.435541457477359,3.0,5,Brute Force
+81,3.0,6.37877262595129,5,Brute Force
+82,2.337446833871918,8.662553166128081,5,Brute Force
+9,2.2007052057099754,4.0,5,Brute Force
+28,2.607555222293573,7.6075552222935725,5,Brute Force
+17,0.7556468445353455,2.7556468445353453,5,Brute Force
+5,2.0,8.50175230215106,5,Brute Force
+41,0.330348481280914,4.0,5,Brute Force
+82,3.0663081762401254,2.0663081762401254,5,Brute Force
+6,3.0075343631340745,2.0075343631340745,5,Brute Force
+47,3.2253327977125283,6.0,5,Brute Force
+51,4.0,4.0,5,Brute Force
+17,2.0,6.0,5,Brute Force
+95,4.0,5.701635035672292,5,Brute Force
+50,2.0,6.912112375459856,5,Brute Force
+17,2.0,6.0,5,Brute Force
+77,3.0,4.888693021286049,5,Brute Force
+30,2.0,4.157685964701819,5,Brute Force
+59,3.0,7.0,5,Brute Force
+36,3.981757518571639,2.018242481428361,5,Brute Force
+104,1.3030385376335785,6.6969614623664215,5,Brute Force
+41,0.002744465231605653,4.0,5,Brute Force
+44,4.0,4.793220525948041,5,Brute Force
+109,1.42400158219434,5.42400158219434,5,Brute Force
+37,1.0,4.0,5,Brute Force
+82,0.005300006397605417,7.01060001279521,5,Brute Force
+92,0.024932837054857493,9.0,5,Brute Force
+114,2.0,2.4907487792587846,5,Brute Force
+116,0.0,8.722896096621776,5,Brute Force
+65,2.641722946306705,8.0,5,Brute Force
+10,1.2815427291634465,6.0,5,Brute Force
+118,2.5350367320449108,1.4649632679550895,5,Brute Force
+109,1.476619484126412,5.476619484126412,5,Brute Force
+86,2.0,5.838582558702624,5,Brute Force
+76,3.0,3.0,5,Brute Force
+101,3.032005933495766,3.967994066504234,5,Brute Force
+37,1.2890475211632517,3.7109524788367483,5,Brute Force
+55,3.0,8.19950692733832,5,Brute Force
+90,3.736247183698488,7.472494367396976,5,Brute Force
+68,0.0,3.5298400231811167,5,Brute Force
+89,1.2927699043555556,5.707230095644444,5,Brute Force
+114,1.2322204985571612,3.0,5,Brute Force
+49,4.0,6.0,5,Brute Force
+70,3.506103956359347,3.0,5,Brute Force
+72,0.06798565774306586,3.932014342256934,5,Brute Force
+29,0.0,8.0,5,Brute Force
+28,4.0,3.5938830975578986,5,Brute Force
+21,2.369230481509896,2.369230481509896,5,Brute Force
+82,2.5457320277809004,2.0,5,Brute Force
+98,1.5486031179381532,9.0,5,Brute Force
+25,4.0,3.451078020111023,5,Brute Force
+17,0.20173046233023584,2.201730462330236,5,Brute Force
+84,3.315428452120167,4.0,5,Brute Force
+17,3.0,7.0,5,Brute Force
+89,0.13882477344202038,7.0,5,Brute Force
+82,3.0,1.0,5,Brute Force
+103,0.23339212828336264,8.0,5,Brute Force
+119,0.4731662010518922,8.053667597896215,5,Brute Force
+42,1.6061018810558387,4.0,5,Brute Force
+113,0.7942894499664624,1.0,5,Brute Force
+31,2.0,1.0,5,Brute Force
+17,3.0,7.0,5,Brute Force
+114,1.2540254744512818,3.0,5,Brute Force
+104,2.408518292935917,8.408518292935916,5,Brute Force
+69,3.0670619329000455,3.9329380670999545,5,Brute Force
+88,2.0,7.018141047085219,5,Brute Force
+119,0.7949981899467627,6.794998189946763,5,Brute Force
+104,1.6207714150361996,6.3792285849638,5,Brute Force
+44,3.073550576410289,5.926449423589711,5,Brute Force
+73,0.27840344924872285,1.0,5,Brute Force
+32,3.9038107120718246,6.048094643964088,5,Brute Force
+53,4.0,6.781514481751415,5,Brute Force
+116,2.6558817743549836,1.0,5,Brute Force
+74,0.0,1.0,5,Brute Force
+18,2.7995371309195156,4.0,5,Brute Force
+96,4.0,6.0,5,Brute Force
+89,2.813595013211856,1.3728099735762882,5,Brute Force
+10,0.0,2.0,5,Brute Force
+95,0.0,5.6337585637201775,5,Brute Force
+97,0.09213386953748404,9.0,5,Brute Force
+31,1.3676068354070108,1.0,5,Brute Force
+51,4.0,4.588306675795057,5,Brute Force
+100,2.3170179365828676,2.365964126834265,5,Brute Force
+17,0.5480513987009608,2.5480513987009608,5,Brute Force
+9,3.286217545144674,8.0,5,Brute Force
+78,4.0,9.0,5,Brute Force
+73,0.3758984558181624,1.0,5,Brute Force
+41,0.0,2.539781061914633,5,Brute Force
+6,4.0,5.877489350776678,5,Brute Force
+56,2.0,3.5774862709061255,5,Brute Force
+70,3.0,1.7107249036367917,5,Brute Force
+37,0.3914821102015019,4.608517889798498,5,Brute Force
+40,4.0,2.531857479688174,5,Brute Force
+103,0.13323822478163394,8.0,5,Brute Force
+11,1.0,9.0,5,Brute Force
+52,4.0,4.0,5,Brute Force
+92,1.5684718568635574,6.568471856863558,5,Brute Force
+77,0.0,3.6671842140875155,5,Brute Force
+106,2.0,3.0,5,Brute Force
+52,2.0,6.0,5,Brute Force
+89,2.833269240006617,1.3334615199867663,5,Brute Force
+33,2.0,7.0,5,Brute Force
+86,2.0,5.495423626403966,5,Brute Force
+51,3.2585390888609544,9.0,5,Brute Force
+21,0.0,8.0,5,Brute Force
+24,2.0,5.0,5,Brute Force
+55,1.0,8.504806240077645,5,Brute Force
+82,2.293019538756541,2.0,5,Brute Force
+25,2.0,5.442856121898497,5,Brute Force
+99,0.0,5.143127985548469,5,Brute Force
+24,0.0,3.4090891863389263,5,Brute Force
+53,2.4281281644472283,8.285935917776385,5,Brute Force
+65,1.0,3.0,5,Brute Force
+49,2.7546352918601165,7.0,5,Brute Force
+34,0.10291603074414502,2.897083969255855,5,Brute Force
+66,4.0,6.0,5,Brute Force
+16,2.378821565556916,7.0,5,Brute Force
+85,2.0,5.542999780718322,5,Brute Force
+87,1.207915744145025,7.792084255854975,5,Brute Force
+58,1.0045766949250603,2.49771165253747,5,Brute Force
+104,3.4601393628871633,5.539860637112836,5,Brute Force
+32,3.0272850360087844,6.486357481995608,5,Brute Force
+114,1.4089551770854931,3.0,5,Brute Force
+89,2.228118019401755,2.54376396119649,5,Brute Force
+30,4.0,3.024406144636089,5,Brute Force
+5,4.0,5.0,5,Brute Force
+13,2.434491652677026,6.565508347322973,5,Brute Force
+74,3.283820925267048,7.0,5,Brute Force
+34,0.5990293647773265,1.0,5,Brute Force
+49,4.0,6.173201172190922,5,Brute Force
+56,2.0,2.9590747945640277,5,Brute Force
+42,0.3425242571785434,7.685048514357087,5,Brute Force
+54,3.772649016970013,3.0,5,Brute Force
+74,4.0,5.0,5,Brute Force
+56,2.0,3.287929616475726,5,Brute Force
+53,4.0,6.614950263152655,5,Brute Force
+37,1.0881475911570353,3.9118524088429645,5,Brute Force
+69,4.0,5.139116194143062,5,Brute Force
+5,2.0,6.201589206031773,5,Brute Force
+103,1.256015531853662,2.743984468146338,5,Brute Force
+88,1.2739044139375992,7.0,5,Brute Force
+96,4.0,6.0,5,Brute Force
+59,2.8977873357748005,7.1022126642252,5,Brute Force
+76,2.0812494777392536,1.0,5,Brute Force
+58,3.7900846371240866,5.790084637124087,5,Brute Force
+32,0.023022604787637513,4.023022604787638,5,Brute Force
+71,0.3486327890117539,1.0,5,Brute Force
+69,0.0,3.771246668519738,5,Brute Force
+105,0.374435369720422,7.625564630279578,5,Brute Force
+85,2.0,6.0,5,Brute Force
+58,3.9226789345112127,6.077321065488787,5,Brute Force
+33,0.0,1.1042469660518095,5,Brute Force
+100,0.8404396319804229,7.0,5,Brute Force
+118,3.0893138017442867,1.089313801744287,5,Brute Force
+60,2.122810781845734,2.877189218154266,5,Brute Force
+81,0.0,5.528187930809837,5,Brute Force
+37,1.1655205103672897,3.8344794896327103,5,Brute Force
+28,0.0,3.1863208794941205,5,Brute Force
+32,2.837490789002492,3.162509210997508,5,Brute Force
+17,3.0,7.0,5,Brute Force
+21,3.688555735954359,3.688555735954359,5,Brute Force
+76,1.7726043791228874,8.227395620877113,5,Brute Force
+118,0.6078943937942587,3.3921056062057415,5,Brute Force
+91,1.0,6.379305698385549,5,Brute Force
+99,2.0,2.2557503481567114,5,Brute Force
+91,2.0,2.2055798083756377,5,Brute Force
+14,0.0,5.212210111285508,5,Brute Force
+28,3.603721531730139,6.0,5,Brute Force
+11,0.0,2.0,5,Brute Force
+98,4.0,7.0,5,Brute Force
+54,4.0,3.2729637187740863,5,Brute Force
+105,3.077039768201515,1.0,5,Brute Force
+54,2.0,4.534299877681187,5,Brute Force
+61,1.5191630219109264,3.0,5,Brute Force
+90,1.9184547249393011,2.0,5,Brute Force
+49,3.0,1.0,5,Brute Force
+37,1.0328466702434382,8.0,5,Brute Force
+15,1.0,2.0872505371208714,5,Brute Force
+59,2.7517735572428483,7.248226442757152,5,Brute Force
+10,0.5776319540915472,6.0,5,Brute Force
+77,2.165513317427974,3.0,5,Brute Force
+61,1.0338791602465949,3.0,5,Brute Force
+23,0.0,7.311473171132757,5,Brute Force
+21,0.21950429245391234,7.780495707546088,5,Brute Force
+23,3.0,9.0,5,Brute Force
+37,1.220097214081097,3.779902785918903,5,Brute Force
+89,0.7873192156587737,7.0,5,Brute Force
+48,1.0,3.0,5,Brute Force
+20,0.9755413156827563,7.0,5,Brute Force
+49,3.541011011982987,1.0,5,Brute Force
+70,1.5573053688900478,5.885389262219904,5,Brute Force
+71,1.721264035781468,4.860632017890734,5,Brute Force
+118,3.4649302810663416,1.4649302810663414,5,Brute Force
+12,1.815537128581144,9.0,5,Brute Force
+19,3.299595911766477,9.0,5,Brute Force
+17,0.3099369262686109,3.0,5,Brute Force
+92,1.0,8.602681884542402,5,Brute Force
+43,2.0,3.5732110946632507,5,Brute Force
+111,4.0,6.200217977925731,5,Brute Force
+40,0.349386999049333,8.650613000950667,5,Brute Force
+76,2.5317681715586207,1.0,5,Brute Force
+17,3.0,7.0,5,Brute Force
+92,0.6222740525598307,9.0,5,Brute Force
+42,1.163435186707667,4.0,5,Brute Force
+110,1.0,9.0,5,Brute Force
+77,1.7059553207790286,8.294044679220972,5,Brute Force
+41,3.714059199789828,2.4281183995796565,5,Brute Force
+39,2.944704539710428,2.0,5,Brute Force
+77,1.534455891257247,8.465544108742753,5,Brute Force
+55,3.0,8.481087948387586,5,Brute Force
+97,0.497011948821249,9.0,5,Brute Force
+115,2.7653562810662407,6.765356281066241,5,Brute Force
+15,2.8970185206686843,3.8970185206686843,5,Brute Force
+35,3.0,3.6656371886895176,5,Brute Force
+65,3.075503363803889,8.07550336380389,5,Brute Force
+78,4.0,6.0,5,Brute Force
+34,1.7276981452797004,2.7276981452797004,5,Brute Force
+55,2.0,2.7948608196377682,5,Brute Force
+58,2.9468430666814127,9.0,5,Brute Force
+93,0.0,4.601499542972242,5,Brute Force
+49,3.9789314356159613,1.0,5,Brute Force
+41,0.0,3.8397888594565703,5,Brute Force
+23,3.0,9.0,5,Brute Force
+100,1.0,7.0,5,Brute Force
+66,4.0,3.55172259525934,5,Brute Force
+45,2.7461114359566956,5.746111435956696,5,Brute Force
+92,0.1961130996934528,9.0,5,Brute Force
+106,0.0,2.0,5,Brute Force
+23,3.0,9.0,5,Brute Force
+28,2.339271245896191,6.660728754103809,5,Brute Force
+79,4.0,9.0,5,Brute Force
+105,1.1125395174864972,3.0,5,Brute Force
+91,1.0,7.443278415216634,5,Brute Force
+32,1.4416261926210132,7.0,5,Brute Force
+80,3.805314967357905,9.0,5,Brute Force
+34,0.011271218044557219,1.0,5,Brute Force
+44,3.3968025978230205,5.6031974021769795,5,Brute Force
+19,0.0,8.613700297925172,5,Brute Force
+15,2.037350681445125,1.0373506814451252,5,Brute Force
+75,2.055590274422727,7.944409725577273,5,Brute Force
+91,3.8589181512222863,6.0,5,Brute Force
+54,3.406392308273522,3.0,5,Brute Force
+116,0.0,8.3239900611068,5,Brute Force
+49,1.0,1.0869250149503493,5,Brute Force
+70,3.6332407749109605,2.266481549821921,5,Brute Force
+52,1.0,2.0,5,Brute Force
+54,3.1518719045331167,7.848128095466883,5,Brute Force
+71,2.1227768896627084,5.0,5,Brute Force
+51,3.0,9.0,5,Brute Force
+88,1.3570744363857468,4.0,5,Brute Force
+14,0.0,3.7039461351385095,5,Brute Force
+51,4.0,4.089375996459696,5,Brute Force
+92,1.375238728956749,7.624761271043251,5,Brute Force
+64,1.0,6.67173171429967,5,Brute Force
+32,2.3497853371546804,6.82510733142266,5,Brute Force
+67,1.3630592121950906,1.6369407878049094,5,Brute Force
+59,0.06845622164105825,9.0,5,Brute Force
+113,0.8306545065652498,1.8306545065652498,5,Brute Force
+77,2.654807855118724,3.0,5,Brute Force
+35,2.0,1.2261654767986596,5,Brute Force
+82,3.0,1.0,5,Brute Force
+106,0.1389319800252784,1.8610680199747216,5,Brute Force
+22,0.0,8.0,5,Brute Force
+40,2.0,8.97454726519887,5,Brute Force
+96,3.220241225211969,6.77975877478803,5,Brute Force
+105,1.885762074079603,3.0,5,Brute Force
+96,3.5657766199665604,6.43422338003344,5,Brute Force
+33,2.0,1.0,5,Brute Force
+95,4.0,4.942130905387629,5,Brute Force
+5,1.1821071388215834,7.182107138821583,5,Brute Force
+74,0.0,1.0,5,Brute Force
+90,3.4875423441180784,5.512457655881922,5,Brute Force
+34,1.0,1.2583130557713345,5,Brute Force
+44,3.0,6.698845853160904,5,Brute Force
+78,1.0,6.0,5,Brute Force
+48,1.0,2.2180231074940866,5,Brute Force
+69,4.0,5.645054167769329,5,Brute Force
+77,0.4217039345532818,6.578296065446718,5,Brute Force
+96,1.8677237888746696,1.2645524222506608,5,Brute Force
+45,2.9005723012363855,5.9005723012363855,5,Brute Force
+45,2.3087781423903455,5.0,5,Brute Force
+79,1.6831838564454813,8.683183856445481,5,Brute Force
+92,1.177416124088326,6.177416124088326,5,Brute Force
+48,1.0,3.0,5,Brute Force
+79,2.815054428402457,2.0,5,Brute Force
+7,0.0,8.0,5,Brute Force
+23,3.93282460008429,2.06717539991571,5,Brute Force
+50,2.0,6.4052480880276885,5,Brute Force
+20,0.4974648939798906,9.0,5,Brute Force
+32,2.0,7.0,5,Brute Force
+12,0.0,5.0,5,Brute Force
+55,2.0,5.0,5,Brute Force
+23,3.0,9.0,5,Brute Force
+94,2.0,1.7335016066291178,5,Brute Force
+41,3.732184578459062,3.267815421540938,5,Brute Force
+42,3.2507306605615978,2.2507306605615978,5,Brute Force
+58,3.0,4.633098063357448,5,Brute Force
+6,4.0,7.0,5,Brute Force
+96,3.4267056218205996,6.5732943781794,5,Brute Force
+82,2.0,1.8381069631782958,5,Brute Force
+8,0.8087630030980486,5.0,5,Brute Force
+106,3.2290886229357296,5.0,5,Brute Force
+88,1.4220360595506873,4.0,5,Brute Force
+48,1.0,1.3538713765612496,5,Brute Force
+14,0.9586271773132206,1.9586271773132204,5,Brute Force
+115,1.8156290793210368,2.184370920678963,5,Brute Force
+96,4.0,6.0,5,Brute Force
+34,1.2290140744645215,1.0,5,Brute Force
+85,3.0,2.136499410708183,5,Brute Force
+103,2.0,8.162921009296971,5,Brute Force
+5,1.5628066036427564,7.562806603642756,5,Brute Force
+30,0.0,4.0,5,Brute Force
+103,4.0,5.278467138878094,5,Brute Force
+96,4.0,6.0,5,Brute Force
+38,2.0506932029422344,7.9493067970577656,5,Brute Force
+14,0.0,3.396649373052054,5,Brute Force
+56,3.045913063460367,8.045913063460366,5,Brute Force
+52,4.0,4.0,5,Brute Force
+19,0.48375494193241275,7.0,5,Brute Force
+53,1.0,9.0,5,Brute Force
+37,2.539842778908193,3.0,5,Brute Force
+59,0.0,8.837986122108415,5,Brute Force
+115,2.8415296603100435,6.8415296603100435,5,Brute Force
+28,0.15359215068544274,1.0,5,Brute Force
+116,2.044763687276521,7.044763687276521,5,Brute Force
+67,2.3093442817664727,4.0,5,Brute Force
+115,1.3766674490950093,2.6233325509049905,5,Brute Force
+50,2.0,6.47423730870037,5,Brute Force
+59,3.0,7.0,5,Brute Force
+116,2.0,7.0,5,Brute Force
+21,0.0,5.0,5,Brute Force
+72,4.0,6.295074450311047,5,Brute Force
+105,0.5982860582681546,6.598286058268155,5,Brute Force
+62,0.5403184872388689,2.459681512761131,5,Brute Force
+105,1.075933410369622,7.075933410369622,5,Brute Force
+42,0.9222346559210429,2.0,5,Brute Force
+65,3.997660609374222,8.997660609374222,5,Brute Force
+29,2.0,8.967699388207086,5,Brute Force
+45,2.005253818558385,5.0,5,Brute Force
+114,1.8969062539862551,3.0,5,Brute Force
+73,4.0,9.0,5,Brute Force
+51,3.0,9.0,5,Brute Force
+96,4.0,6.0,5,Brute Force
+72,4.0,6.209986441208144,5,Brute Force
+96,2.3094397675543594,2.3094397675543594,5,Brute Force
+98,0.0,3.4786993325864306,5,Brute Force
+110,1.0,9.0,5,Brute Force
+80,3.0418292069960695,7.0,5,Brute Force
+61,0.24160758605431853,2.2416075860543185,5,Brute Force
+118,3.3610506146657384,2.6389493853342616,5,Brute Force
+99,2.0,2.24096415446115,5,Brute Force
+110,2.2758966707268615,1.0,5,Brute Force
+86,2.637231579789487,2.362768420210513,5,Brute Force
+33,0.0,1.0194231998200118,5,Brute Force
+34,2.096636187363975,3.096636187363975,5,Brute Force
+52,2.0,6.0,5,Brute Force
+28,2.693175211456925,6.306824788543075,5,Brute Force
+115,1.9484041933412901,4.0,5,Brute Force
+52,4.0,4.0,5,Brute Force
+109,1.0441654377101002,6.955834562289899,5,Brute Force
+9,2.0,4.411736243030069,5,Brute Force
+93,1.9987069991316697,2.000646500434165,5,Brute Force
+90,2.5558065814371798,5.55580658143718,5,Brute Force
+8,4.0,7.526789881918667,5,Brute Force
+52,1.0,2.0,5,Brute Force
+16,1.1205225787864643,8.758954842427071,5,Brute Force
+80,4.0,6.731023671458281,5,Brute Force
+55,1.3851980555712609,9.0,5,Brute Force
+37,0.11528202124728437,4.8847179787527155,5,Brute Force
+12,1.5782373402694874,2.5782373402694874,5,Brute Force
+79,2.7953418379590973,2.0,5,Brute Force
+81,2.0,2.0,5,Brute Force
+42,3.054882614646475,6.054882614646475,5,Brute Force
+81,3.4551436850361563,6.0,5,Brute Force
+28,2.522434576071169,6.477565423928831,5,Brute Force
+85,1.0,3.355453349374178,5,Brute Force
+73,3.0,5.0,5,Brute Force
+107,3.635302750542694,3.0,5,Brute Force
+79,1.439322805996486,6.439322805996486,5,Brute Force
+33,1.0378762323118271,7.0,5,Brute Force
+37,1.0,7.1150016434767185,5,Brute Force
+58,0.0,8.4697348673651,5,Brute Force
+93,0.0,4.117935676503677,5,Brute Force
+50,3.4044854496818506,9.0,5,Brute Force
+105,0.5724277594334657,6.572427759433466,5,Brute Force
+28,3.1960230205991023,5.6079539588017955,5,Brute Force
+98,4.0,7.0,5,Brute Force
+105,3.6616551750805417,5.338344824919458,5,Brute Force
+103,0.262144233093475,8.0,5,Brute Force
+19,3.479831890121268,1.4798318901212681,5,Brute Force
+79,0.5731829433451356,3.0,5,Brute Force
+49,3.1233346221375506,1.0,5,Brute Force
+81,3.0,6.0,5,Brute Force
+59,3.0,7.0,5,Brute Force
+13,0.0,5.0,5,Brute Force
+22,3.0,9.0,5,Brute Force
+84,3.1854729095767222,4.0,5,Brute Force
+41,0.6160361100802743,2.383963889919726,5,Brute Force
+22,3.0,3.0,5,Brute Force
+76,0.0,7.0,5,Brute Force
+118,3.009485433628498,2.990514566371502,5,Brute Force
+116,3.0,8.947316164022771,5,Brute Force
+64,1.0,8.0,5,Brute Force
+9,3.924806453587478,4.0,5,Brute Force
+110,2.0,1.0,5,Brute Force
+14,3.0,6.0,5,Brute Force
+16,3.0,3.4566260578619916,5,Brute Force
+89,0.39828738397563557,7.0,5,Brute Force
+29,2.0916993351114304,9.0,5,Brute Force
+33,0.33637046382842206,6.327259072343156,5,Brute Force
+16,2.5225191916345233,7.0,5,Brute Force
+30,4.0,3.5354563856307095,5,Brute Force
+61,1.9966536379570208,3.0,5,Brute Force
+118,4.0,6.0,5,Brute Force
+81,3.0,6.0,5,Brute Force
+90,3.0,1.0,5,Brute Force
+96,1.284446684765758,4.284446684765758,5,Brute Force
+49,1.5891085344708948,4.589108534470895,5,Brute Force
+73,4.0,8.445468708606453,5,Brute Force
+10,1.0896608979424656,6.0,5,Brute Force
+21,2.045100677220323,2.045100677220323,5,Brute Force
+97,0.10946759867911515,9.0,5,Brute Force
+61,1.391630140540356,3.0,5,Brute Force
+65,3.124437557296856,8.124437557296856,5,Brute Force
+77,2.956415697559425,3.0,5,Brute Force
+10,0.0,6.0,5,Brute Force
+67,4.0,6.741017348398186,5,Brute Force
+30,2.5885542289732455,8.588554228973246,5,Brute Force
+25,4.0,3.982330515080082,5,Brute Force
+105,3.115801021868497,5.8841989781315025,5,Brute Force
+105,1.600798446442198,1.0,5,Brute Force
+10,0.9037239671752705,6.0,5,Brute Force
+99,3.0108150901866413,5.0,5,Brute Force
+114,1.0,7.256647177106376,5,Brute Force
+105,1.064986409482894,3.0,5,Brute Force
+55,3.0,8.598419763574512,5,Brute Force
+85,3.0,3.675651470566491,5,Brute Force
+41,3.230569195805019,3.769430804194981,5,Brute Force
+71,2.8306425177506247,3.3387149644987506,5,Brute Force
+41,3.879661237965004,5.120338762034996,5,Brute Force
+15,0.953054642852187,6.0,5,Brute Force
+42,3.6159093885087503,2.6159093885087503,5,Brute Force
+18,3.0,6.036731937426613,5,Brute Force
+41,4.0,3.0,5,Brute Force
+101,4.0,4.347588608412068,5,Brute Force
+103,1.199230312870125,8.0,5,Brute Force
+104,4.0,5.0,5,Brute Force
+47,0.21632402303655351,8.0,5,Brute Force
+89,0.5182603666763922,7.0,5,Brute Force
+7,0.0,8.0,5,Brute Force
+42,3.474968499139732,2.474968499139732,5,Brute Force
+89,1.7397666320484726,5.260233367951527,5,Brute Force
+115,1.0,3.4847520756852743,5,Brute Force
+98,2.0,3.0,5,Brute Force
+89,0.9963357758067243,7.003664224193276,5,Brute Force
+55,3.0,8.0,5,Brute Force
+103,2.46338074821562,1.46338074821562,5,Brute Force
+41,0.0,3.3770626170648814,5,Brute Force
+40,2.0,8.252128395907771,5,Brute Force
+18,1.9651348397661752,4.0,5,Brute Force
+16,3.0,2.21015711754432,5,Brute Force
+74,1.0,1.3170179365828676,5,Other
+166,0.45194860129903924,1.4519486012990392,5,Other
+184,7.427564909710652,2.0,5,Other
+183,4.0,0.0,5,Other
+150,6.624101544181838,0.0,5,Other
+76,8.0,0.539781061914633,5,Other
+186,1.0,2.0,5,Other
+74,1.0,1.4225137290938743,5,Other
+86,5.6446375481816045,0.3553624518183959,5,Other
+183,4.0,0.0,5,Other
+32,1.531857479688174,1.0,5,Other
+196,3.0,0.0,5,Other
+71,0.22902539092479635,1.7709746090752037,5,Other
+197,1.542849310613409,1.457150689386591,5,Other
+123,3.705415570590672,0.4315281431364426,5,Other
+188,3.3343684281750314,0.3328157859124843,5,Other
+171,2.2694508631906984,0.7305491368093014,5,Other
+175,4.225129570386646,1.3874352148066769,5,Other
+182,1.6665384800132337,0.0,5,Other
+174,6.635887346120315,0.0,5,Other
+107,1.5137291207881032,1.0,5,Other
+118,2.0,2.0,5,Other
+137,7.280547452227834,0.0,5,Other
+122,5.00692215222847,0.0023073840761567155,5,Other
+184,0.2475968799611773,0.4951937599223546,5,Other
+3,0.0,1.0,5,Other
+109,0.0,0.7785719390507511,5,Other
+189,2.8568720144515303,1.0,5,Other
+115,5.795455406830537,1.0,5,Other
+184,8.285935917776385,1.7140640822236142,5,Other
+187,1.0,2.0,5,Other
+75,8.0,0.49072941627976685,5,Other
+184,6.20583206148829,2.0,5,Other
+74,6.927037297030811,0.5364813514845947,5,Other
+165,6.484713737772337,1.0,5,Other
+197,5.628999342154965,2.0,5,Other
+66,0.792084255854975,2.0,5,Other
+124,2.0,1.5022883474625301,5,Other
+52,1.9202787257743266,1.4601393628871633,5,Other
+123,3.5409275540131766,0.4863574819956078,5,Other
+39,2.8179103541709862,0.5910448229145068,5,Other
+2,5.228118019401755,0.2281180194017549,5,Other
+186,1.0,2.0,5,Other
+140,2.8031145975895457,1.5984427012052271,5,Other
+17,1.6965250419689215,1.5655083473229738,5,Other
+31,1.4323581494659043,1.2838209252670478,5,Other
+125,0.4009706352226735,1.0,5,Other
+127,8.653597655618157,1.6535976556181566,5,Other
+30,7.918149589128055,0.04092520543597222,5,Other
+30,6.657475742821457,0.3425242571785434,5,Other
+66,0.45470196605997404,2.0,5,Other
+190,2.576403137579517,1.423596862420483,5,Other
+189,2.0,1.7120703835242739,5,Other
+140,3.229900526305309,1.3850497368473456,5,Other
+183,0.0,0.1762951823140706,5,Other
+17,5.278232388286124,0.13911619414306187,5,Other
+140,8.0,0.0,5,Other
+117,0.5120310637073244,1.256015531853662,5,Other
+125,1.2739044139375992,1.2739044139375992,5,Other
+117,4.814074189482357,1.0,5,Other
+160,5.8977873357748,2.0,5,Other
+189,1.0812494777392536,2.0,5,Other
+126,0.0,1.2099153628759134,5,Other
+47,4.0,0.9769773952123625,5,Other
+170,2.348632789011754,0.6513672109882461,5,Other
+107,3.771246668519738,1.7712466685197379,5,Other
+127,8.251129260559155,1.251129260559156,5,Other
+2,4.931078460632781,0.0,5,Other
+137,8.922678934511213,0.0,5,Other
+82,1.208493932103619,1.791506067896381,5,Other
+126,7.319120736039154,0.0,5,Other
+54,1.910686198255713,1.0,5,Other
+57,5.245621563691468,2.0,5,Other
+184,6.471812069190163,2.0,5,Other
+183,4.0,0.0,5,Other
+161,5.1863208794941205,2.0,5,Other
+74,6.325018421995016,0.8374907890024921,5,Other
+195,2.667853587345061,0.33214641265493894,5,Other
+137,3.9343327921369236,0.0,5,Other
+128,0.0,2.0,5,Other
+184,6.784211212411483,2.0,5,Other
+140,2.758611396771098,1.620694301614451,5,Other
+189,2.0,1.2557503481567112,5,Other
+148,3.588840383248725,2.0,5,Other
+127,9.0,0.4244202225710152,5,Other
+160,5.603721531730139,2.0,5,Other
+77,8.0,1.7714653998886245,5,Other
+119,5.170990831592745,1.0,5,Other
+6,1.409445578161129,1.727036281225914,5,Other
+4,0.07703976820151515,1.0770397682015151,5,Other
+56,9.0,0.0,5,Other
+149,5.0383260438218525,2.0,5,Other
+189,2.081545275060699,1.0,5,Other
+189,7.2387953275902985,2.0,5,Other
+147,8.032846670243439,1.9671533297565618,5,Other
+183,0.17450107424174233,0.0,5,Other
+126,0.0,1.2482264427571519,5,Other
+4,4.844736091816905,0.4223680459084528,5,Other
+108,5.668973365144052,1.165513317427974,5,Other
+164,1.0338791602465949,2.0,5,Other
+125,1.6885268288672426,1.6885268288672426,5,Other
+25,1.5609914150921753,2.0,5,Other
+77,8.0,1.2775871726294181,5,Other
+128,0.7799027859189029,2.0,5,Other
+159,8.0,1.7873192156587736,5,Other
+119,4.969652635186375,1.0,5,Other
+174,3.975541315682756,0.04891736863448748,5,Other
+2,5.541011011982987,0.541011011982987,5,Other
+83,0.4426946311099521,1.4426946311099522,5,Other
+187,9.0,1.139367982109266,5,Other
+53,1.4649302810663414,1.0,5,Other
+170,2.0,1.0,5,Other
+84,2.101212264700569,0.29959591176647704,5,Other
+72,8.0,0.6900630737313891,5,Other
+182,3.205363769084804,0.0,5,Other
+174,3.5732110946632507,0.8535778106734988,5,Other
+72,0.0,0.4004359558514612,5,Other
+24,1.301226001901334,2.0,5,Other
+138,3.4682318284413793,0.46823182844137934,5,Other
+140,8.0,0.0,5,Other
+74,6.755451894880339,0.6222740525598307,5,Other
+88,0.0,1.0,5,Other
+123,3.237639187297777,0.5874536042340743,5,Other
+174,6.117865962337086,0.0,5,Other
+46,4.0,0.28594080021017176,5,Other
+126,7.944704539710428,0.9447045397104283,5,Other
+140,1.0689117825144938,1.0689117825144938,5,Other
+54,2.518912051612414,0.48108794838758595,5,Other
+128,0.497011948821249,2.0,5,Other
+4,0.23464371893375935,1.2346437189337593,5,Other
+190,2.8970185206686843,1.1029814793313155,5,Other
+120,6.668725622620965,1.0,5,Other
+71,4.0,0.9244966361961108,5,Other
+108,4.493507558505098,1.7532462207474508,5,Other
+52,1.0,1.2723018547202996,5,Other
+159,8.0,1.1025695901811159,5,Other
+30,7.526578466659294,0.0,5,Other
+195,7.800749771486121,0.39850045702775794,5,Other
+89,5.063205693152117,0.9789314356159612,5,Other
+170,1.6795777189131411,1.0,5,Other
+159,8.0,1.1330062399884766,5,Other
+184,7.184031009270311,2.0,5,Other
+7,1.0,1.1034451905186795,5,Other
+25,3.015554256173217,1.7461114359566956,5,Other
+133,7.803886900306547,0.0,5,Other
+138,8.505507879106034,0.0,5,Other
+30,6.595048979700421,0.4049510202995794,5,Other
+58,5.660728754103809,0.6785424917923819,5,Other
+189,7.2916694467094985,2.0,5,Other
+77,8.0,1.1125395174864972,5,Other
+124,1.4432784152166338,1.0,5,Other
+185,8.279186903689494,1.4416261926210132,5,Other
+53,1.3893700652841898,0.8053149673579051,5,Other
+148,6.988728781955443,2.0,5,Other
+188,1.0,2.0,5,Other
+137,8.420550446887757,0.0,5,Other
+74,8.0,0.03735068144512532,5,Other
+16,5.222361097690906,0.11118054884545314,5,Other
+53,2.7178363024445726,0.14108184877771357,5,Other
+174,3.406392308273522,1.187215383452956,5,Other
+185,4.0,0.0,5,Other
+2,4.913074985049651,0.0,5,Other
+140,3.266481549821921,1.3667592250890395,5,Other
+38,3.0563815472159908,1.0,5,Other
+31,1.8481280954668835,1.0,5,Other
+186,8.877223110337292,1.1227768896627084,5,Other
+161,4.752888151750588,2.0,5,Other
+159,8.0,1.3570744363857468,5,Other
+74,6.592107729722981,0.7039461351385095,5,Other
+197,2.910624003540304,0.08937599645969607,5,Other
+54,2.3752387289567487,0.6247612710432511,5,Other
+84,4.992402428550495,0.0,5,Other
+146,8.82510733142266,0.8251073314226598,5,Other
+119,4.726118424390181,1.0,5,Other
+47,4.0,1.0,5,Other
+56,5.677381973739001,1.6613090131304995,5,Other
+84,0.3451921448812756,1.3451921448812756,5,Other
+41,2.4523309535973192,0.0,5,Other
+118,2.0,2.0,5,Other
+197,2.861068019974722,0.1389319800252784,5,Other
+39,2.4390210501619176,0.7804894749190413,5,Other
+119,2.0509054696022604,1.9745472651988698,5,Other
+22,0.4404824504239384,2.0,5,Other
+198,1.114237925920397,1.885762074079603,5,Other
+126,8.13155323993312,0.0,5,Other
+57,5.014632687758265,1.9707346244834694,5,Other
+90,6.586803641918557,0.4710654526938144,5,Other
+119,4.364214277643167,1.0,5,Other
+72,4.969556734300692,1.0,5,Other
+114,2.0,2.0,5,Other
+41,2.516626111542669,0.0,5,Other
+195,7.698845853160904,0.6023082936781912,5,Other
+54,1.5974499564030196,1.0,5,Other
+195,3.0,0.0,5,Other
+114,2.0,2.0,5,Other
+88,0.0,1.0,5,Other
+114,2.0,2.0,5,Other
+125,1.0994276987636145,1.0994276987636145,5,Other
+77,8.0,1.3087781423903455,5,Other
+114,2.0,2.0,5,Other
+161,5.177416124088326,2.0,5,Other
+125,0.5296616786550811,1.0,5,Other
+108,5.630108856804914,1.184945571597543,5,Other
+189,1.5019092464889943,2.0,5,Other
+182,2.13435079983142,0.0,5,Other
+131,5.810496176055377,1.1895038239446225,5,Other
+197,2.4974648939798905,0.5025351060201094,5,Other
+129,0.8393922551031126,2.0,5,Other
+125,0.10657873012867436,1.0,5,Other
+189,2.0,1.859981461339551,5,Other
+24,1.4726323947307671,2.0,5,Other
+127,8.467003213258236,1.4670032132582356,5,Other
+57,5.267815421540938,1.4643691569181247,5,Other
+55,7.997077357753609,0.5014613211231955,5,Other
+159,2.6330980633574477,1.2661961267148951,5,Other
+89,6.977095400553086,0.5057261498617286,5,Other
+30,7.4267056218206,0.0,5,Other
+74,1.0,1.8381069631782958,5,Other
+142,2.0,2.0,5,Other
+140,1.541822754128541,1.541822754128541,5,Other
+174,5.266108178652062,0.0,5,Other
+148,3.292257246877501,2.0,5,Other
+109,0.0,1.0,5,Other
+113,4.446887237963111,1.1843709206789632,5,Other
+55,8.638652157689569,0.18067392115521574,5,Other
+150,6.687042223393565,1.541971851070957,5,Other
+8,1.2047491160622747,0.0,5,Other
+115,5.837078990703029,1.0,5,Other
+82,0.5628066036427565,1.5628066036427564,5,Other
+147,2.0,2.0,5,Other
+77,8.0,1.2784671388780944,5,Other
+110,0.0,0.3895953329920424,5,Other
+165,0.9493067970577657,1.9493067970577656,5,Other
+47,4.0,1.0,5,Other
+110,0.0,0.04591306346036694,5,Other
+161,5.135001277421207,2.0,5,Other
+190,2.5162450580675872,1.4837549419324128,5,Other
+109,0.0,1.0,5,Other
+110,0.0,0.46015722109180657,5,Other
+52,1.0,1.1620138778915847,5,Other
+71,4.0,0.8415296603100434,5,Other
+41,2.0,0.15359215068544274,5,Other
+185,8.044763687276522,1.9552363127234789,5,Other
+170,2.0,1.0,5,Other
+140,3.2466651018099815,1.3766674490950093,5,Other
+126,0.0,1.4742373087003697,5,Other
+54,2.3443837320442333,0.6556162679557668,5,Other
+199,1.0,1.6484598388657812,5,Other
+175,0.5872064493932477,0.5872064493932477,5,Other
+72,0.0,0.5901489006220939,5,Other
+17,3.8034278834636908,1.1965721165363092,5,Other
+161,5.459681512761131,2.0,5,Other
+8,1.2278002311088663,0.0,5,Other
+190,2.922234655921043,1.0777653440789572,5,Other
+165,3.002339390625778,1.9976606093742217,5,Other
+183,6.096901835378741,1.9676993882070866,5,Other
+160,5.994746181441615,2.0,5,Other
+57,5.20618749202749,2.0,5,Other
+3,0.3145965568094109,1.314596556809411,5,Other
+165,2.6148605036335226,2.0,5,Other
+103,6.848395143056471,2.0,5,Other
+57,5.209986441208144,1.5800271175837122,5,Other
+147,8.690560232445641,1.3094397675543594,5,Other
+119,5.042601334827139,1.0,5,Other
+71,0.0,1.8265895762756328,5,Other
+109,0.0,1.0,5,Other
+59,6.516784827891363,2.0,5,Other
+127,0.0,2.0,5,Other
+123,2.7228924633834506,0.7590358455388498,5,Other
+197,1.7241033292731385,1.2758966707268615,5,Other
+189,1.362768420210513,2.0,5,Other
+175,0.9805768001799882,0.9805768001799882,5,Other
+137,6.2899085620919255,0.0,5,Other
+146,8.646664919117164,0.6466649191171634,5,Other
+88,0.0,1.0,5,Other
+114,2.0,2.0,5,Other
+74,1.0,0.6601650708999216,5,Other
+140,2.0883308754202003,1.9558345622898998,5,Other
+4,0.588263756969931,1.5882637569699312,5,Other
+74,7.99870699913167,0.0006465004341651426,5,Other
+165,3.5558065814371798,1.4441934185628202,5,Other
+71,0.0,1.0535797638373332,5,Other
+149,3.3128548565055875,0.6257097130111751,5,Other
+166,0.12052257878646444,1.1205225787864643,5,Other
+140,3.4620473429165632,1.2689763285417184,5,Other
+9,5.037004861071848,0.8074009722143696,5,Other
+170,2.8847179787527155,0.11528202124728437,5,Other
+23,0.843525319461025,2.0,5,Other
+127,0.0,2.0,5,Other
+186,1.0,2.0,5,Other
+137,8.835352156060575,0.0,5,Other
+95,0.4551436850361561,0.0,5,Other
+77,8.0,1.522434576071169,5,Other
+118,2.0,2.0,5,Other
+58,6.300334700886456,2.0,5,Other
+2,5.635302750542694,0.6353027505426941,5,Other
+140,8.0,0.0,5,Other
+186,8.518938116155914,1.4810618838440863,5,Other
+170,2.0,1.0,5,Other
+163,6.4092046020953,1.5302651326349002,5,Other
+185,0.5589678382518384,1.1179356765036768,5,Other
+185,8.40448544968185,1.5955145503181494,5,Other
+3,4.572427759433466,0.0,5,Other
+106,3.0,1.1960230205991023,5,Other
+159,6.923197019238425,1.5384014903807874,5,Other
+197,5.015034474758376,2.0,5,Other
+19,6.47571153381305,0.737855766906525,5,Other
+54,2.479831890121268,0.5201681098787319,5,Other
+175,2.1463658866902713,1.5731829433451356,5,Other
+198,1.1233346221375506,1.0,5,Other
+118,2.0,2.0,5,Other
+37,4.15222859769765,1.0,5,Other
+115,5.990341313341777,1.0,5,Other
+53,2.9995249528482306,0.0002375235758845795,5,Other
+41,3.8145270904232778,0.0,5,Other
+58,5.767927779839452,2.0,5,Other
+109,0.0,1.0,5,Other
+197,3.929970294252529,1.859940588505058,5,Other
+140,8.0,0.0,5,Other
+107,2.8419484920683145,1.0,5,Other
+115,5.911456589386382,1.0,5,Other
+161,2.037596773206261,2.0,5,Other
+24,1.0404373462869905,2.0,5,Other
+108,5.161514414454656,1.4192427927726723,5,Other
+4,4.271686971069004,0.0,5,Other
+137,4.805137848073093,0.0,5,Other
+46,4.0,1.0,5,Other
+71,0.0,1.3272590723431559,5,Other
+119,5.045038383269047,1.0,5,Other
+103,5.929087228738581,2.0,5,Other
+148,3.9933072759140416,2.0,5,Other
+166,0.4673107665376526,1.4673107665376526,5,Other
+58,8.108991370635353,0.0,5,Other
+16,0.14717817830809865,0.8528218216919013,5,Other
+89,8.715553315234242,0.0,5,Other
+72,0.0,0.8217829310582103,5,Other
+77,8.0,1.4454687086064528,5,Other
+146,8.910339102057534,0.9103391020575343,5,Other
+107,3.045100677220323,1.045100677220323,5,Other
+2,0.0,1.0,5,Other
+137,7.825109578378932,0.0,5,Other
+140,0.2488751145937127,0.2488751145937127,5,Other
+90,7.869247092678275,0.043584302440574985,5,Other
+185,8.202010677856617,1.7979893221433834,5,Other
+162,2.0,2.0,5,Other
+95,1.5885542289732455,0.0,5,Other
+130,3.0353389698398368,2.0,5,Other
+189,1.115801021868497,2.0,5,Other
+189,1.600798446442198,1.399201553557802,5,Other
+90,7.711171901525812,0.09627603282472952,5,Other
+18,3.0432603607465643,1.989184909813359,5,Other
+148,2.5132943542127517,2.0,5,Other
+113,2.194959228448682,1.935013590517106,5,Other
+195,6.39367905429805,0.8031604728509749,5,Other
+84,0.16217426471675456,1.1621742647167546,5,Other
+199,1.0,1.769430804194981,5,Other
+186,9.0,0.1693574822493754,5,Other
+59,6.879661237965004,1.7593224759300081,5,Other
+31,0.0,2.0,5,Other
+74,1.0,1.2318187770175009,5,Other
+162,0.07346387485322725,0.07346387485322725,5,Other
+146,8.042729737016675,0.042729737016674374,5,Other
+162,5.521382912618103,1.8262056957939659,5,Other
+170,2.0,1.0,5,Other
+188,1.0,2.0,5,Other
+157,2.2163240230365533,0.43264804607310703,5,Other
+73,0.5182603666763922,0.5182603666763922,5,Other
+42,2.597274072430341,0.0,5,Other
+5,0.5250315008602682,1.5250315008602682,5,Other
+30,6.260233367951527,0.7397666320484727,5,Other
+127,8.030495848629451,1.0304958486294518,5,Other
+121,7.017627318262747,1.0,5,Other
+137,8.996335775806724,0.0,5,Other
+17,5.205127703907593,0.10256385195379614,5,Other
+134,6.53661925178438,0.0,5,Other
+48,5.885313085324407,1.3770626170648814,5,Other
+19,6.495743208184457,0.7478716040922285,5,Other
+198,1.0348651602338248,1.0,5,Other
+6,1.0,1.7898428824556798,5,Other
+183,0.0,0.27974636716415247,5,Other
+51,1.9148641955474146,2.0,5,Other
+47,7.044151169598101,1.6088302339196203,5,Other
+195,6.90816250057474,0.5459187497126299,5,Other
+183,4.0,0.0,5,Other
+85,0.9556233364667632,1.9556233364667632,5,Other
+197,4.443419399958977,2.0,5,Other
+149,3.035422368418545,0.07084473683709014,5,Other
+148,6.670948634630129,2.0,5,Other
+108,4.13682102336202,1.93158948831899,5,Other
+74,6.529574690953094,0.7352126545234527,5,Other
+130,3.5627819211550538,2.0,5,Other
+188,3.4947018120782296,0.2526490939608851,5,Other
+122,7.984753580545922,0.994917860181974,5,Other
+189,1.6957142928497502,1.3042857071502498,5,Other
+85,0.9512164183268269,1.951216418326827,5,Other
+2,0.0,1.0,5,Other
+73,5.9242439451841,1.0,5,Other
+187,1.0,2.0,5,Other
+110,0.0,0.10552006903193256,5,Other
+184,7.982950670290096,2.0,5,Other
+189,1.938482973760765,2.0,5,Other
+88,0.0,1.0,5,Other
+18,6.032158040887233,0.5160790204436166,5,Other
+189,2.0,1.09348628055542,5,Other
+183,7.286043174241278,1.571318941919574,5,Other
+186,4.0,0.0,5,Other
+46,4.0,0.45622109200260075,5,Other
+74,1.0,1.1355071196926514,5,Other
+137,8.733909918953701,0.0,5,Other
+127,0.4787396878195851,2.0,5,Other
+169,1.7363216081030939,1.0,5,Other
+84,3.735856596766004,0.0,5,Other
+42,2.157340659702526,0.0,5,Other
+28,6.839599894669928,1.839599894669928,5,Other
+40,2.0,0.6659911212547621,5,Other
+8,1.7160700939030527,0.0,5,Other
+127,9.0,1.8601807010194773,5,Other
+144,2.0,2.0,5,Other
+126,0.0,1.3010092619604123,5,Other
+5,4.189221539785006,0.0,5,Other
+109,0.0,1.0,5,Other
+96,0.07736942363018517,0.0,5,Other
+176,0.46547000876998357,0.46547000876998357,5,Other
+51,1.2418570395437367,2.0,5,Other
+34,7.98970965849057,1.9948548292452852,5,Other
+183,0.0,0.3601061651837998,5,Other
+189,1.2286251615249235,1.7713748384750765,5,Other
+190,2.091298690730632,1.9087013092693679,5,Other
+159,8.0,1.0011201114801094,5,Other
+188,4.887636529920486,0.887636529920486,5,Other
+41,2.4867283924301304,0.0,5,Other
+149,4.517376661395816,2.0,5,Other
+186,9.0,0.8068671354127069,5,Other
+126,0.0,1.0840982244679847,5,Other
+189,1.3264335765032929,1.6735664234967071,5,Other
+87,5.4401556876911705,0.5598443123088295,5,Other
+160,6.2316877135605155,2.0,5,Other
+151,8.246609276026403,0.0,5,Other
+76,8.0,0.990927595347275,5,Other
+89,5.5439617385004745,0.8186794204998418,5,Other
+130,2.614653845720426,2.0,5,Other
+189,6.850028844796745,2.0,5,Other
+84,2.9447168437853475,0.01842771873821747,5,Other
+125,0.5677592161074877,1.0,5,Other
+184,6.3197569945175625,2.0,5,Other
+183,5.215697577109607,1.2156975771096068,5,Other
+75,8.0,0.1794973234238334,5,Other
+108,0.7389034978484426,1.0,5,Other
+46,4.0,0.7888069818707443,5,Other
+119,2.3475069506151334,1.8262465246924333,5,Other
+165,0.7708541085409898,1.77085410854099,5,Other
+160,2.947297888256338,1.894595776512676,5,Other
+88,0.16637758693227234,1.1663775869322723,5,Other
+148,2.2290157074678643,1.541968585064271,5,Other
+6,3.125716013807888,0.0,5,Other
+185,8.526426111564911,0.947147776870177,5,Other
+147,7.057920460558798,2.0,5,Other
+35,6.149388835515708,1.0746944177578541,5,Other
+108,5.704829318397295,1.1475853408013523,5,Other
+46,4.0,0.990148372750647,5,Other
+84,5.028156771560264,0.0,5,Other
+31,0.8919166140206429,1.5540416929896785,5,Other
+186,8.647573643401907,1.3524263565980923,5,Other
+30,6.81120828154291,0.5943958592285453,5,Other
+127,8.232775479188756,1.2327754791887564,5,Other
+86,0.934373855425987,1.934373855425987,5,Other
+170,2.0,1.0,5,Other
+72,0.3718335292387246,1.6281664707612755,5,Other
+77,8.0,1.8187856433570937,5,Other
+3,0.2525087496883822,1.2525087496883822,5,Other
+170,0.002058959691266793,1.0,5,Other
+164,1.8410617167232435,2.0,5,Other
+89,8.531460583231416,0.0,5,Other
+189,1.05569636504217,1.94430363495783,5,Other
+147,7.897806380306281,2.0,5,Other
+146,8.145790225538434,0.14579022553843402,5,Other
+109,0.0,1.0,5,Other
+73,0.8259207657998966,1.1740792342001034,5,Other
+76,8.0,0.7016255690100074,5,Other
+73,5.679894329344943,1.0,5,Other
+130,3.454354439966391,2.0,5,Other
+189,1.769946316968566,1.230053683031434,5,Other
+109,0.0,1.0,5,Other
+89,5.395837032403121,0.8680543225322929,5,Other
+174,4.1102900396796045,0.0,5,Other
+109,0.0,1.0,5,Other
+197,3.2687299330263144,0.5374598660526289,5,Other
+8,1.0,0.18095097810436322,5,Other
+148,2.2852798158150027,2.0,5,Other
+17,0.10643858318937438,1.0354795277297915,5,Other
+160,2.7600940784380974,1.5201881568761944,5,Other
+175,5.230804950476359,0.8845975247618205,5,Other
+58,5.68804800950487,0.6239039809902609,5,Other
+140,2.6414854808762547,1.6792572595618727,5,Other
+197,1.724422672614117,1.275577327385883,5,Other
+148,2.7458370120309645,0.5083259759380714,5,Other
+22,0.4007182870974253,2.0,5,Other
+170,2.0,1.0,5,Other
+71,4.0,0.28507595979775235,5,Other
+88,0.0,1.0,5,Other
+54,1.5284675398974872,1.0,5,Other
+90,6.629698417369875,0.45676719421004186,5,Other
+149,5.681508523441471,2.0,5,Other
+16,0.2037012492762742,0.7962987507237258,5,Other
+140,3.8176710191876166,1.0911644904061917,5,Other
+2,5.153658038161113,0.15365803816111268,5,Other
+3,4.5463063653947176,0.0,5,Other
+34,7.060708787456512,1.5303543937282562,5,Other
+146,8.017861892478319,0.017861892478319374,5,Other
+89,8.796797827864028,0.0,5,Other
+58,8.117496079969566,0.0,5,Other
+3,0.0,1.0,5,Other
+30,6.032488736386222,0.9675112636137777,5,Other
+140,8.0,0.0,5,Other
+183,4.0,0.0,5,Other
+140,2.0,2.0,5,Other
+125,1.598327265122427,1.598327265122427,5,Other
+18,6.214612896525343,0.6073064482626712,5,Other
+31,0.0,2.0,5,Other
+125,1.558412672583198,1.558412672583198,5,Other
+145,8.0,0.0,5,Other
+127,0.16082546907819006,2.0,5,Other
+138,8.651519466802265,0.0,5,Other
+122,7.022223608143776,0.6740745360479251,5,Other
+113,3.7707918166568675,1.4097360611143777,5,Other
+88,0.0,1.0,5,Other
+127,9.0,0.03129718519419211,5,Other
+118,2.0,2.0,5,Other
+189,2.0,1.4645985966358102,5,Other
+19,2.0413698790779757,2.0,5,Other
+164,1.6044549161200314,2.0,5,Other
+108,0.07590044438793031,1.0,5,Other
+74,7.44377525585387,0.27811237207306494,5,Other
+148,3.313967715128986,2.0,5,Other
+72,0.0,0.48588146477755334,5,Other
+137,8.952648638038717,0.0,5,Other
+89,5.27654404104608,0.9078186529846402,5,Other
+197,1.724285308126412,1.275714691873588,5,Other
+199,1.0,1.250838360898717,5,Other
+74,7.708155851929709,0.14592207403514545,5,Other
+130,5.205584808985331,1.7944151910146686,5,Other
+103,5.283618007376657,2.0,5,Other
+54,1.9816323630594601,1.0,5,Other
+74,1.0,0.5176436184484084,5,Other
+30,6.210349579918868,0.7896504200811314,5,Other
+149,4.692033135289679,2.0,5,Other
+127,9.0,0.4483905284140879,5,Other
+42,2.9412375042323866,0.0,5,Other
+36,5.710334911414634,1.0,5,Other
+31,0.0,2.0,5,Other
+74,8.0,0.1174665141804,5,Other
+25,5.669965862238315,1.0825085344404213,5,Other
+127,9.0,0.35097190620633234,5,Other
+85,0.6421986490717286,1.6421986490717286,5,Other
+77,8.0,1.6779052977806646,5,Other
+133,7.977466386314786,0.0,5,Other
+148,2.4017181797245883,2.0,5,Other
+73,0.6931939408226809,1.306806059177319,5,Other
+119,5.642881456019733,1.0,5,Other
+88,0.041183495279271676,1.0411834952792716,5,Other
+66,1.3407709167088244,2.0,5,Other
+53,1.096900051289346,0.951549974355327,5,Other
+117,0.2484399334561187,1.1242199667280595,5,Other
+130,3.2075573946299234,2.0,5,Other
+195,7.5947766373769365,0.8104467252461278,5,Other
+140,2.0,2.0,5,Other
+7,2.8388325245968176,0.0,5,Other
+46,4.0,0.29883588633731384,5,Other
+72,0.0,0.12959636940108066,5,Other
+73,0.9473504626310387,0.0,5,Other
+189,2.0,1.3746953397860522,5,Other
+199,1.0,1.2165772740583853,5,Other
+7,2.836773957643474,0.0,5,Other
+189,1.4843984475740406,2.0,5,Other
+170,2.0,1.0,5,Other
+114,2.0,2.0,5,Other
+15,0.4025241373680699,0.5974758626319301,5,Other
+121,7.567665106837724,1.0,5,Other
+148,6.519096168551015,2.0,5,Other
+130,4.9184917878150545,2.0,5,Other
+85,5.836000519010502,0.16399948098949724,5,Other
+15,8.561392783510462,1.5613927835104615,5,Other
+24,1.4496531197481166,2.0,5,Other
+184,4.0,0.0,5,Other
+171,1.3005883717469078,1.0,5,Other
+110,0.0,0.4792789285762873,5,Other
+32,1.6157420219422427,1.0,5,Other
+95,1.6709825621853378,0.0,5,Other
+151,8.05963481460667,0.0,5,Other
+86,0.7442790655949556,1.7442790655949556,5,Other
+147,8.871832778973122,1.128167221026879,5,Other
+165,3.1326893320872222,1.4336553339563889,5,Other
+2,0.0,1.0,5,Other
+159,7.676654911706395,1.1616725441468025,5,Other
+74,1.0,0.0208611392915381,5,Other
+18,4.38694792305068,1.65326301923733,5,Other
+199,1.0,1.3323146253551088,5,Other
+15,0.5424786357193675,0.4575213642806325,5,Other
+187,1.0,2.0,5,Other
+54,2.918473510447573,0.0815264895524267,5,Other
+86,5.596738638876168,0.4032613611238318,5,Other
+9,4.897194375388384,0.7794388750776767,5,Other
+46,4.0,0.5816002113323473,5,Other
+133,7.796421719657757,0.0,5,Other
+118,2.0,2.0,5,Other
+140,2.0,2.0,5,Other
+5,4.078438897026047,0.03921944851302306,5,Other
+48,6.920463169265296,1.5840926338530592,5,Other
+84,0.1537547079809507,1.1537547079809507,5,Other
+96,0.7424703635881098,0.0,5,Other
+189,6.793949104002742,2.0,5,Other
+127,9.0,0.46455222386643946,5,Other
+56,9.0,0.0,5,Other
+122,6.629901570089865,0.5433005233632884,5,Other
+182,0.0,1.02799173561745,5,Other
+47,4.0,0.5880583780900792,5,Other
+161,5.029394445756507,2.0,5,Other
+34,7.208969660301969,1.6044848301509846,5,Other
+16,2.212377427122343,1.212377427122343,5,Other
+17,1.793170695767593,1.5977235652558643,5,Other
+182,1.585912189211263,0.4140878107887369,5,Other
+83,2.310018677664217,0.6899813223357829,5,Other
+190,2.0078666836593277,1.9921333163406723,5,Other
+133,7.283854528608645,0.0,5,Other
+170,2.0,1.0,5,Other
+130,1.8484585443966113,2.0,5,Other
+18,6.068374385959503,0.5341871929797515,5,Other
+199,1.0,1.8359980637812094,5,Other
+30,6.76420790604079,0.23579209395920986,5,Other
+108,5.552000414070859,1.2239997929645705,5,Other
+130,1.78406945074277,2.0,5,Other
+189,1.6018553836620084,1.3981446163379916,5,Other
+110,0.0,0.3674594667736939,5,Other
+41,3.6271513628110656,0.0,5,Other
+160,7.02523041041161,2.0,5,Other
+161,3.826062349295394,2.0,5,Other
+74,7.861734427626761,0.06913278618661944,5,Other
+107,3.4371653888168265,1.4371653888168265,5,Other
+28,7.0,1.8052132148928957,5,Other
+188,5.189958401839357,1.189958401839357,5,Other
+16,6.628326400672872,0.8141632003364363,5,Other
+189,1.5794148993435009,1.4205851006564991,5,Other
+4,4.33737872099168,0.0,5,Other
+19,6.809476984090748,0.9047384920453737,5,Other
+57,5.347876754469562,1.3042464910608758,5,Other
+19,6.375703886607106,0.6878519433035529,5,Other
+41,3.600954053862889,0.0,5,Other
+58,5.8579862539227054,0.28402749215458845,5,Other
+188,3.9909695958704496,0.009030404129550251,5,Other
+105,4.646349466637578,1.4115873666593945,5,Other
+137,4.7961419403003225,0.0,5,Other
+30,7.6033402236564385,0.0,5,Other
+161,5.237027857108336,2.0,5,Other
+159,8.0,1.234674038261551,5,Other
+18,2.6511290089822577,2.0,5,Other
+74,6.884048747565715,0.5579756262171425,5,Other
+109,0.0,1.0,5,Other
+134,6.5512224261685965,0.0,5,Other
+84,5.008171204378084,0.0,5,Other
+119,4.291513136489503,1.0,5,Other
+3,0.0,1.0,5,Other
+30,7.175768742220773,0.41211562888961306,5,Other
+6,1.0,1.8971667097028675,5,Other
+160,6.5050555641508385,2.0,5,Other
+189,1.6407492520837543,2.0,5,Other
+47,4.0,1.0,5,Other
+7,2.8166144729346483,0.0,5,Other
+146,8.356732053040002,0.35673205304000166,5,Other
+140,2.932976149400609,1.5335119252996956,5,Other
+132,6.563580659690059,0.43641934030994123,5,Other
+183,4.589228811775593,0.5892288117755928,5,Other
+164,2.4463686465125853,2.0,5,Other
+58,8.728432355348337,0.27156764465166217,5,Other
+73,0.4418597504061371,0.0,5,Other
+87,5.460094160497787,0.5399058395022125,5,Other
+161,3.068375531878316,2.0,5,Other
+18,2.960078941071485,2.0,5,Other
+125,1.1229708085296268,1.1229708085296268,5,Other
+2,5.537738175144707,0.7688690875723534,5,Other
+148,6.948303162758473,2.0,5,Other
+127,8.280005933673827,1.2800059336738274,5,Other
+148,2.22470117697268,1.55059764605464,5,Other
+174,3.1800104374727236,1.639979125054553,5,Other
+108,4.177111168446483,1.9114444157767587,5,Other
+164,1.8966910428759842,2.0,5,Other
+119,4.830658599114822,1.0,5,Other
+72,4.623584268266809,1.0,5,Other
+107,1.807863034606797,1.0,5,Other
+96,1.0402058368158535,0.0,5,Other
+83,0.3140322640170159,1.314032264017016,5,Other
+177,1.0,1.0,5,Other
+108,4.646261314140557,1.6768693429297215,5,Other
+150,6.0807067557889605,1.9461954961406929,5,Other
+137,4.259663310913596,0.0,5,Other
+140,8.0,0.0,5,Other
+3,0.0,1.0,5,Other
+124,2.0,1.6573465118790847,5,Other
+140,1.0644899776525982,1.0644899776525982,5,Other
+55,9.0,0.0,5,Other
+57,5.132714653819278,1.7345706923614452,5,Other
+147,7.856457637960607,2.0,5,Other
+29,7.0,0.12036041614631654,5,Other
+38,3.068404326634633,1.0,5,Other
+30,6.837618105337679,0.1623818946623209,5,Other
+161,4.623301832468798,2.0,5,Other
+46,4.0,0.26917052512912365,5,Other
+177,0.15616384479217393,0.15616384479217393,5,Other
+77,8.0,1.2345612933348287,5,Other
+149,4.073306334359202,2.0,5,Other
+95,1.7446934752715682,0.0,5,Other
+131,6.3232647007422935,0.6767352992577065,5,Other
+151,7.042737425198939,0.0,5,Other
+148,2.7485935342795855,2.0,5,Other
+54,2.017515990862062,0.9824840091379378,5,Other
+86,0.7558527095776257,1.7558527095776257,5,Other
+95,0.16912280865829454,0.0,5,Other
+108,4.270782328089926,1.8646088359550368,5,Other
+127,9.0,0.46296127095241757,5,Other
+85,0.886890180923427,1.886890180923427,5,Other
+126,8.591020743392807,0.0,5,Other
+54,2.0813222030064957,0.9186777969935043,5,Other
+148,3.201219085092472,2.0,5,Other
+113,2.1773739309858056,1.940875356338065,5,Other
+127,0.8268388837118774,2.0,5,Other
+72,0.0,0.6660569660181854,5,Other
+29,6.422814763288252,1.422814763288252,5,Other
+46,4.0,1.0,5,Other
+55,9.0,0.0,5,Other
+54,1.604953922690541,1.0,5,Other
+15,8.68188844638188,1.6818884463818806,5,Other
+164,2.866438667527645,2.0,5,Other
+46,4.0,1.0,5,Other
+90,8.247572237384427,0.0,5,Other
+189,2.0,1.9095183047129494,5,Other
+118,2.0,2.0,5,Other
+82,1.2182192635314995,1.7817807364685005,5,Other
+26,6.650511647791716,1.6505116477917157,5,Other
+96,0.46961827088843067,0.0,5,Other
+186,9.0,0.9256748308807118,5,Other
+41,3.4381723464119878,0.0,5,Other
+160,7.802751299176888,2.0,5,Other
+197,4.366326522876017,2.0,5,Other
+19,6.365608566469203,0.6828042832346014,5,Other
+117,1.737801251081142,1.868900625540571,5,Other
+47,4.0,0.6243277481182735,5,Other
+195,6.812522901758877,0.5937385491205616,5,Other
+170,2.649074658794393,0.3509253412056069,5,Other
+161,3.656762455770162,2.0,5,Other
+89,8.630208748329144,0.0,5,Other
+150,6.609831805498694,0.0,5,Other
+170,2.0,1.0,5,Other
+148,2.6195802957672023,0.7608394084655954,5,Other
+189,1.4515002783485231,1.5484997216514769,5,Other
+138,8.403514525014579,0.0,5,Other
+189,7.63706066548642,2.0,5,Other
+47,4.0,1.0,5,Other
+4,0.01466705704626381,1.014667057046264,5,Other
+53,1.4129382922988492,1.0,5,Other
+189,1.8315556148572805,2.0,5,Other
+109,0.0,0.6425759689471896,5,Other
+170,1.518688655845732,1.0,5,Other
+161,3.999109381738517,2.0,5,Other
+120,6.915272670040523,1.0,5,Other
+165,3.951478559665991,1.0485214403340088,5,Other
+140,1.6943347227451484,1.6943347227451484,5,Other
+58,5.91423651595147,0.17152696809706014,5,Other
+128,0.8137662883195864,2.0,5,Other
+159,8.0,1.1089183418467314,5,Other
+86,0.8510081440298053,1.8510081440298052,5,Other
+148,6.526623797268959,2.0,5,Other
+88,0.0,1.0,5,Other
+74,1.0,1.5233045249588408,5,Other
+107,1.8169040285449494,1.0,5,Other
+160,5.549414238430454,2.0,5,Other
+198,1.2531242838641772,1.0,5,Other
+174,6.146472721297823,0.0,5,Other
+5,0.5212341324853343,1.5212341324853345,5,Other
+113,2.532819743548826,1.822393418817058,5,Other
+140,2.861724183076067,1.5691379084619665,5,Other
+38,2.4131428406395106,1.0,5,Other
+17,3.1425605401103276,1.8574394598896722,5,Other
+161,2.0453399699666925,2.0,5,Other
+40,2.0,0.3453069185686518,5,Other
+189,2.0,1.3800745089372053,5,Other
+117,1.6056917468542453,1.8028458734271227,5,Other
+17,3.9583664588872,1.0416335411128002,5,Other
+134,8.194558323185301,0.0,5,Other
+157,2.166331607743142,0.3326632154862843,5,Other
+126,0.0,1.3826482425870257,5,Other
+197,5.430745826254646,2.0,5,Other
+125,1.3299039653890583,1.3299039653890583,5,Other
+15,8.07039412257801,1.0703941225780107,5,Other
+34,7.06452042667808,1.5322602133390402,5,Other
+82,0.5809320532627977,1.5809320532627977,5,Other
+74,1.0,1.0896263391549421,5,Other
+140,2.564728428182741,1.7176357859086295,5,Other
+31,0.0,2.0,5,Other
+140,3.9534504773251578,1.0232747613374211,5,Other
+46,4.0,0.8231740155956603,5,Other
+170,2.5224810405161184,0.4775189594838817,5,Other
+127,0.876777345827834,2.0,5,Other
+189,2.0,1.140584206719411,5,Other
+117,1.5995621908480433,1.7997810954240216,5,Other
+130,2.446244611388901,2.0,5,Other
+110,0.0,0.2952782892203101,5,Other
+2,5.7934072581478375,0.7934072581478373,5,Other
+151,8.44431466035777,0.37045689309481933,5,Other
+164,2.0822475108286227,2.0,5,Other
+189,2.0,1.424527425196362,5,Other
+199,1.0,1.9129610374123414,5,Other
+74,1.0,0.1842513564957191,5,Other
+17,1.879470950884837,1.6264903169616125,5,Other
+89,8.52649919415378,0.0,5,Other
+73,0.8876956555887808,0.0,5,Other
+74,1.0,1.0025840148449823,5,Other
+95,1.6379852057932975,0.0,5,Other
+140,8.0,0.0,5,Other
+51,1.0,1.5935385691231472,5,Other
+140,8.0,0.0,5,Other
+59,6.35339408657714,0.7067881731542798,5,Other
+31,0.0,2.0,5,Other
+58,5.6392274808894,0.7215450382211996,5,Other
+73,6.1882177904244795,1.0,5,Other
+88,5.230055299748321,0.7699447002516789,5,Other
+197,5.330088826189848,2.0,5,Other
+118,2.0,2.0,5,Other
+46,4.0,0.697939498165205,5,Other
+183,0.0,0.5360838648287309,5,Other
+188,1.0,2.0,5,Other
+41,3.3285753304693855,0.0,5,Other
+184,0.19047002423155823,0.38094004846311647,5,Other
+110,0.0,0.23334386479959401,5,Other
+160,6.299407935913916,2.0,5,Other
+15,8.576055187086698,1.576055187086698,5,Other
+119,4.305967601657125,1.0,5,Other
+146,8.235235584801984,0.2352355848019848,5,Other
+190,2.1307403753489473,1.8692596246510527,5,Other
+137,4.581324103100453,0.0,5,Other
+170,2.535358101842661,0.46464189815733914,5,Other
+41,3.1784459652277723,0.0,5,Other
+127,8.375456427902408,1.375456427902408,5,Other
+57,9.0,0.0,5,Other
+165,3.793813835481574,1.2061861645184264,5,Other
+95,0.3620392066840299,0.0,5,Other
+189,2.0,1.2568838476457147,5,Other
+84,4.896046458061255,0.0,5,Other
+84,5.824636157674338,0.0,5,Other
+137,3.141774393527102,0.14177439352710186,5,Other
+151,8.450919491999748,0.0,5,Other
+69,0.8059061662086167,2.0,5,Other
+169,1.351682490174752,1.0,5,Other
+184,4.0,0.0,5,Other
+51,2.108418170845542,2.0,5,Other
+84,0.8264494458041458,0.7245168513986181,5,Other
+72,7.968357816468835,1.0,5,Other
+140,2.0,2.0,5,Other
+73,0.8187070571192328,0.8187070571192328,5,Other
+182,0.0,1.2064388204267444,5,Other
+174,5.988318601733739,0.0,5,Other
+73,0.09447520767032613,0.0,5,Other
+114,2.0,2.0,5,Other
+42,2.2648954472367335,0.0,5,Other
+3,0.0,1.0,5,Other
+73,5.191501456377914,1.0,5,Other
+128,0.4011879140389827,2.0,5,Other
+57,5.366956079204801,1.2660878415903987,5,Other
+186,9.0,0.656439525224296,5,Other
+69,0.7656884332087064,2.0,5,Other
+138,3.4424099364806695,0.4424099364806695,5,Other
+30,7.663726226502844,0.16813688674857796,5,Other
+174,3.669602616133962,0.6607947677320762,5,Other
+41,3.069931605709434,0.0,5,Other
+182,2.719663552343668,0.0,5,Other
+148,2.728852563499815,0.5422948730003696,5,Other
+30,7.185623983306845,0.4071880083465773,5,Other
+77,8.0,1.3198680688965485,5,Other
+28,7.0,1.5383416216919759,5,Other
+74,1.0,0.45685864488036865,5,Other
+197,3.6193502743618646,1.8096751371809323,5,Other
+164,2.9476611242134916,2.0,5,Other
+185,8.37847642348587,1.621523576514131,5,Other
+151,8.274111456308017,0.0,5,Other
+31,1.990960981408514,1.004519509295743,5,Other
+174,5.339057053592926,0.0,5,Other
+74,6.667139098944401,0.6664304505277996,5,Other
+4,0.4195249932833254,1.4195249932833254,5,Other
+107,2.7336978176766946,1.0,5,Other
+177,0.9616657359548132,0.9616657359548132,5,Other
+174,3.634960045591033,0.7300799088179337,5,Other
+83,2.5096756398816957,0.4903243601183045,5,Other
+170,2.0,1.0,5,Other
+31,0.0,2.0,5,Other
+159,8.0,1.5773108866038106,5,Other
+185,8.178193556098913,1.6436128878021736,5,Other
+130,2.9962899607217715,2.0,5,Other
+162,0.6017062167065101,0.6017062167065101,5,Other
+73,0.9812363743443039,0.0,5,Other
+96,1.0502269129875628,0.0,5,Other
+30,6.382526280244008,0.6174737197559917,5,Other
+177,1.0,1.0,5,Other
+73,0.9741646286280156,0.0,5,Other
+95,0.02002635592582447,0.0,5,Other
+96,1.4743604500144862,0.0,5,Other
+119,5.537199609577017,1.0,5,Other
+114,2.0,2.0,5,Other
+94,1.3284415563869627,0.0,5,Other
+164,2.90707085562061,2.0,5,Other
+73,5.48590546713584,1.0,5,Other
+164,2.212098011707735,2.0,5,Other
+170,2.86468619203354,0.13531380796645975,5,Other
+164,2.3915135873402087,2.0,5,Other
+18,6.013676863640965,0.5068384318204826,5,Other
+110,0.0,0.1593040206189803,5,Other
+25,6.06310903307915,1.0631090330791502,5,Other
+120,6.2352980569471175,1.0,5,Other
+88,0.0,1.0,5,Other
+46,4.0,1.0,5,Other
+72,4.761819051021974,1.0,5,Other
+94,0.6536782314109965,0.0,5,Other
+52,2.5218893356054686,1.7609446678027343,5,Other
+198,1.490275753248302,1.0,5,Other
+126,8.650572216465793,0.0,5,Other
+159,8.0,1.2797035384714792,5,Other
+77,8.0,1.9423870191022332,5,Other
+188,2.2533266765523043,0.8733366617238478,5,Other
+118,2.0,2.0,5,Other
+56,5.854896172971622,1.572551913514189,5,Other
+47,4.0,0.5745873823177666,5,Other
+165,3.5665753621714185,1.4334246378285815,5,Other
+197,3.6089572369418255,1.2179144738836511,5,Other
+168,1.0023059983640195,1.0,5,Other
+33,1.397178777429211,1.0,5,Other
+41,2.9205347624801146,0.0,5,Other
+168,1.2559001055452716,1.0,5,Other
+89,8.674303806409048,0.0,5,Other
+197,1.5324811925594262,1.4675188074405738,5,Other
+29,6.2785779326712685,1.2785779326712683,5,Other
+84,0.1412780492755058,1.1412780492755057,5,Other
+157,2.2119824909022388,0.42396498180447706,5,Other
+124,1.18126499592573,1.0,5,Other
+151,7.645055955692831,0.0,5,Other
+171,2.02289382497612,0.9771061750238798,5,Other
+159,8.0,1.153791149668031,5,Other
+139,8.22361443449631,0.0,5,Other
+130,3.0853542242108256,2.0,5,Other
+47,4.0,1.0,5,Other
+46,4.336346297618726,1.0672692595237452,5,Other
+108,5.15032670099325,1.424836649503375,5,Other
+88,0.0,1.0,5,Other
+197,3.686272308805904,1.372544617611808,5,Other
+17,4.212741888866751,0.7872581111332488,5,Other
+15,8.443207901529881,1.7216039507649403,5,Other
+189,8.694784881878117,2.0,5,Other
+31,1.6586648102825674,1.1706675948587164,5,Other
+72,8.0,0.682468552123263,5,Other
+9,1.2360123619935282,0.047202472398705675,5,Other
+17,4.650401534831136,0.3495984651688637,5,Other
+30,7.33369311416496,0.0,5,Other
+73,0.12176191112527479,0.12176191112527479,5,Other
+18,6.043531953903855,0.5217659769519277,5,Other
+163,1.0122151096935017,1.0122151096935017,5,Other
+15,8.76744864163462,1.76744864163462,5,Other
+109,0.0,0.920034605640698,5,Other
+189,8.330170891415078,2.0,5,Other
+89,5.48814020849758,0.877964947875605,5,Other
+35,6.811418498876451,1.4057092494382253,5,Other
+175,1.0,1.0,5,Other
+197,2.8761051925980423,0.12389480740195746,5,Other
+134,6.722247376250738,0.0,5,Other
+114,2.0,2.0,5,Other
+165,1.0006650122409788,2.0,5,Other
+84,3.0530634288397716,0.0,5,Other
+160,7.20510632768573,2.0,5,Other
+125,1.3647982191445296,1.3647982191445296,5,Other
+198,1.3864608411591473,1.0,5,Other
+52,1.871117818642235,1.4355589093211174,5,Other
+103,3.0,1.8082175444081394,5,Other
+174,3.788244649334522,0.4235107013309567,5,Other
+164,1.4846015870188647,2.0,5,Other
+41,3.5085070886877263,0.0,5,Other
+15,8.619497751407588,1.6194977514075877,5,Other
+47,4.0,1.0,5,Other
+137,7.708988467473237,0.0,5,Other
+148,2.1706647585499983,1.6586704829000032,5,Other
+147,7.925370185662918,2.0,5,Other
+128,0.21730395925585078,2.0,5,Other
+83,0.2653874091881946,1.2653874091881945,5,Other
+25,1.6444672242975036,2.0,5,Other
+30,6.691618055569319,0.3083819444306807,5,Other
+15,0.618051674287186,0.381948325712814,5,Other
+125,0.6331896260134641,1.0,5,Other
+25,5.0844215806135455,1.2288946048466136,5,Other
+48,7.836772307186595,1.7673544614373191,5,Other
+51,2.5583947404287217,2.0,5,Other
+88,0.0,1.0,5,Other
+140,2.6885526548766876,1.6557236725616562,5,Other
+31,0.0,2.0,5,Other
+66,1.4486349393533224,2.0,5,Other
+106,3.0,1.207906366239457,5,Other
+31,0.8095968581703996,1.5952015709148002,5,Other
+89,8.654075795371998,0.0,5,Other
+3,0.0,1.0,5,Other
+46,4.0,0.52550462196864,5,Other
+41,3.0367303069302753,0.0,5,Other
+110,0.0,0.1768871451438544,5,Other
+15,6.838763718993107,0.6129212396643692,5,Other
+85,0.963822275482351,1.963822275482351,5,Other
+88,0.24858025771494208,1.248580257714942,5,Other
+140,8.0,0.0,5,Other
+160,6.837161243247871,2.0,5,Other
+196,2.209662264139852,0.7903377358601481,5,Other
+52,1.8357035404400555,1.4178517702200277,5,Other
+183,6.957075518285267,1.6809748272382445,5,Other
+52,2.6206103036506456,1.8103051518253228,5,Other
+165,0.6189481930077215,1.6189481930077214,5,Other
+189,9.0,1.6764996050885261,5,Other
+54,2.8343033659547676,0.1656966340452325,5,Other
+159,8.0,1.6292988060107363,5,Other
+126,8.602287444449408,0.0,5,Other
+126,7.129233359688172,0.1292333596881723,5,Other
+36,5.829467162851869,1.0,5,Other
+183,0.7428171353002815,0.0,5,Other
+137,3.7975534099629407,0.0,5,Other
+118,2.0,2.0,5,Other
+46,4.0,0.5006661650213817,5,Other
+140,2.0,2.0,5,Other
+41,3.149237777950176,0.0,5,Other
+72,8.0,0.8728002373125504,5,Other
+122,7.593981176421253,0.8646603921404177,5,Other
+125,0.7565220315951328,1.0,5,Other
+184,6.696578704178063,2.0,5,Other
+121,7.621371855972533,1.0,5,Other
+125,0.3859186888152639,1.0,5,Other
