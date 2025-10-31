@@ -30,7 +30,7 @@ Its purpose is to:
 ---
 
 ## 🧩 Project Structure
-
+```
 Cysen/
 ├── LICENSE.rst
 ├── README.md
@@ -50,7 +50,7 @@ Cysen/
 ├── attack_classifier_model.pkl
 ├── X_test.csv
 └── predictions_with_geo.csv
-
+```
 
 ---
 
