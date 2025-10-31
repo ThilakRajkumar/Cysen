@@ -31,23 +31,7 @@ Its purpose is to:
 
 ## 🧩 Project Structure
 
-cysen/
-│
-├── src/
-│    ├── build_features_from_real.py
-│    ├── clean_and_balance.py
-│    ├── extract_data_real.py
-│    ├── generate_attack_logs.py
-│    ├── test_geo.py
-│    └── train_model_1.py
-│
-├── demo/
-│    └── sample_X_test.csv
-│
-├── requirements.txt
-├── setup.py
-├── run_demo.sh
-└── pyproject.toml
+<img width="341" height="461" alt="image" src="https://github.com/user-attachments/assets/902758bd-587d-43ac-89e9-279dd6d3a128" />
 
 
 ---
@@ -70,6 +54,7 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 4️⃣ Add your IPInfo token
+
 Create .env file:
 ```
 IPINFO_TOKEN=your_api_token_here
