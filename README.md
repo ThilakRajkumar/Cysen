@@ -65,12 +65,18 @@ chmod +x run_demo.sh
 ./run_demo.sh
 ```
 
+
 🧠 Future Enhancements
 
 🔹 Build interactive dashboard for live attack visualization
+
 🔹 Real-time notifications on attack events
+
 🔹 Dockerized deployment
+
 🔹 Integration with external threat intelligence feeds
+
+
 
 💡 Author
 
