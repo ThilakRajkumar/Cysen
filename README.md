@@ -31,7 +31,25 @@ Its purpose is to:
 
 ## 🧩 Project Structure
 
-<img width="341" height="461" alt="image" src="https://github.com/user-attachments/assets/902758bd-587d-43ac-89e9-279dd6d3a128" />
+Cysen/
+├── LICENSE.rst
+├── README.md
+├── demo/
+│   └── sample_X_test.csv
+├── pyproject.toml
+├── requirements.txt
+├── run_demo.sh
+├── setup.py
+├── src/
+│   ├── build_features_from_real.py
+│   ├── clean_and_balance.py
+│   ├── extract_data_real.py
+│   ├── generate_attack_logs.py
+│   ├── test_geo.py
+│   └── train_model_1.py
+├── attack_classifier_model.pkl
+├── X_test.csv
+└── predictions_with_geo.csv
 
 
 ---
